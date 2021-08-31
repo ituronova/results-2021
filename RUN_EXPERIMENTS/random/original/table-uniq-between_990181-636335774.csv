@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^--\s+(pre|post)SHA1sum:?\s+([0-9A-Fa-f]{40,})\s+$";./attacks-gadget/uniq-between_9112_4.txt;6.47;0.16;0.15;1.49;10.36;1.06;0.14;3.31;1.51;0.89;0.36;1.0;1.74;1.15;5250;5250;5250;5250;5250;5250;5250;5250;10500;10500;10500;10500;5250;5250;49.6545

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"a{20001}"""", """"texts = [os.urandom(20000) for x in range(20000)]"""", """"0.013"""", """"'a{%d}' % (len(input)+1)";./attacks-gadget/stackoverflow-above_48_1.txt;TO;ERR;ERR;TO;1.48;3.68;0.0;0.28;TO;0.09;0.01;0.07;0.08;TO;TO;ERR;ERR;TO;0;0;ERR;ERR;TO;0;0;0;;TO;49.988224

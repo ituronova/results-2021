@@ -1,0 +1,6 @@
+.*(\x5c[^\x5c]{16}|\x2f[^\x2f]{16})\.cda$
+.*<OBJECT\s+[^>]*type\s*=[\x20\x20]\x20{32}
+.*<\w+\x3afill\s[^>]*method\s*=\s*(\x27[^\x27]{32}|\x22[^\x22]{32}|[^\s>]{32})
+.*w3who.dll\x20[^\r\x20]{51}
+.{53}.*[aA][uU][tT][hH][eE][nN][tT][iI][cC][aA][tT][iI][oO][nN] [uU][nN][sS][uU][cC][cC][eE][sS][sS][fF][uU][lL]
+^[^\n]*[\x7e-\x7f].*\nAccept-Language\x3A\s*[\S]{32}

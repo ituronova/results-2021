@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"20130516-003-v5i32.exe"", ""\d{8}-\d{3}-v5i[6][4]\.exe"", ""20130516-003-v5i64.exe"", ""\d{8}-\d{3}-v5i[3][2]\.exe";./attacks-gadget/stackoverflow-between_9052_3.txt;0.13;0.06;0.49;1.82;2.18;1.68;0.28;1.67;21.09;23.61;0.32;0.44;1.09;1.13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.9631

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+^[a-f0-9]{8}-[a-f0-9]{4}-4[a-f0-9]{3}-[89ab][a-f0-9]{3}-[a-f0-9]{12}_Basecall_2D_(.*)$;./attacks-gadget/uniq-between_9051_4.txt;12.31;0.06;0.14;0.6;1.8;1.1;0.24;2.63;1.9;1.65;0.11;0.14;0.97;0.9;52650;52650;52650;52650;52650;52650;52650;52650;52650;52650;52650;52650;52650;52650;49.96485

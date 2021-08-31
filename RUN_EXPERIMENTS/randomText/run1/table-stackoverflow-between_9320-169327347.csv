@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"N[GC]_[0-9]{6,9}\.[0-9]{1,2}|(LRG|UD)_[0-9]+"", ""|"", ""N[GC]_\d{6,9}\.\d{1,2}|(LRG|UD)_\d+"", ""N[GC]_\d{6,9}\.\d{1,2}|LRG_[1-9]\d*|UD_\d+";../runGen4/random/random50000.txt;0.07;0.08;0.23;0.91;4.62;1.17;0.15;12.95;9.06;3.27;9.03;3.47;7.24;0.83;3;7;7;7;7;7;7;7;7;7;7;7;7;7;52.4288

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+a{999999999999999999999999999999999999999999999};./attacks-gadget/missingHyper_9701_1.txt;ERR;ERR;0.14;ERR;ERR;ERR;0.0;0.28;0.07;0.01;ERR;0.02;0.06;ERR;ERR;ERR;0;ERR;ERR;ERR;ERR;ERR;too big number for repeat range: /a{999999999999999999999999999999999999999999999}/###0;0;ERR;0;;ERR;42.0

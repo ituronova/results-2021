@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+.*A.*[BD]C{43,43}D[^E].*;./attacks-gadget/MSInternal-between_01_5.txt;0.0;0.04;0.16;1.58;TO;0.99;0.11;4.78;1.45;0.88;0.04;TO;TO;TO;0;0;0;0;TO;0;0;0;0;0;0;TO;TO;TO;49.158956

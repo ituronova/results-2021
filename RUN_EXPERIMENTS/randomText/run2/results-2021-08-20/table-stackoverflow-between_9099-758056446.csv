@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"([a-zA-Z]\w{3,19}) (RENT|SALE|PURCHASE|SERVICES|DATING) ((\w|\W|\s){10,30}) ((\w|\W|\s){20,400})"", ""[author name] [topic] [header] [text]";../runGen4/random/random50000.txt;0.56;0.14;1.35;2.53;25.86;7.67;0.01;11.72;5.33;3.64;0.09;3.39;3.85;1.65;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;52.4288

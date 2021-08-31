@@ -1,0 +1,80 @@
+{"regex":"^SITE\\s+CHOWN\\s[^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-between_9241_1.txt"}
+{"regex":"^SITE\\s+CPWD\\s[^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-between_9242_1.txt"}
+{"regex":"^SITE\\s+NEWER\\s[^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-between_9243_1.txt"}
+{"regex":"^SITE\\s+ZIPCHK\\s[^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-between_9244_1.txt"}
+{"regex":"^Authorization\\x3a\\s*Negotiate\\s*((YE4G.{40}LgMc)|(YIIQ.{40}QUFB))", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9280_1.txt"}
+{"regex":"^PWD\\s.{190}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9344_1.txt"}
+{"regex":"^RNFR\\s[^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9350_1.txt"}
+{"regex":"^SITE\\s+CHMOD\\s[^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9357_1.txt"}
+{"regex":"^STOU\\s[^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9367_1.txt"}
+{"regex":"(\\x20\\x20.{4}\\x20.{8}[^\\x20]*)|(\\x20\\x20.{8}[^\\x20]*.{4}\\x20)|(.{4}\\x20\\x20\\x20.{8}[^\\x20]*)|(.{4}\\x20.{8}[^\\x20]*\\x20\\x20)|(.{8}[^\\x20]*\\x20\\x20.{4}\\x20)|(.{8}[^\\x20]*.{4}\\x20\\x20\\x20)", "file":"../runGen5/hyperTexts/hyper-26-08/missing-20-08_9064_1.txt"}
+{"regex":"(.{1}\\x20.{10}\\x7f)|(.{10}\\x7f.{1}\\x20)", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_00_1.txt"}
+{"regex":".*(\\x5c[^\\x5c]{16}|\\x2f[^\\x2f]{16})\\.cda$", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_02_1.txt"}
+{"regex":".*<OBJECT\\s+[^>]*type\\s*=[\\x20\\x20]\\x20{32}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_03_1.txt"}
+{"regex":".*<\\w+\\x3afill\\s[^>]*method\\s*=\\s*(\\x27[^\\x27]{32}|\\x22[^\\x22]{32}|[^\\s>]{32})", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_04_1.txt"}
+{"regex":".*\\x2FCSuserCGI\\x2Eexe\\x3FLogout\\x2B[^\\s]{96}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_05_1.txt"}
+{"regex":".*cache_lastpostdate\\[[^\\]]+\\]=[^\\x20\\x20\\x20]{30}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_06_1.txt"}
+{"regex":".*connectID=[^&\\x20\\r\\x20]{25}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_07_1.txt"}
+{"regex":".*get-dated-rev\\x20\\x28\\x20\\d{1,4}\\x3a([^T\\x2d\\x3a]{9}|[^\\x2d]{4}\\x2d[^\\x2d]{3}|[^\\x2d]{4}\\x2d[^\\x2d]{2}\\x2d[^\\x2d]{3})", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_08_1.txt"}
+{"regex":".*isComponentInstalled\\s*\\([^,\\)]{25}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_09_1.txt"}
+{"regex":".*mfcisapicommand=[^&\\r\\x20\\x20]{25}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_10_1.txt"}
+{"regex":".*username=[^&\\x20\\r\\x20]{25}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_11_1.txt"}
+{"regex":".*w3who.dll\\x20[^\\r\\x20]{51}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_12_1.txt"}
+{"regex":".*wqPassword=[^\\r\\x20\\x20]{29}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_13_1.txt"}
+{"regex":".{53}.*[aA][uU][tT][hH][eE][nN][tT][iI][cC][aA][tT][iI][oO][nN] [uU][nN][sS][uU][cC][cC][eE][sS][sS][fF][uU][lL]", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_14_1.txt"}
+{"regex":"[\\x20&]connectID=#[^&\\x20\\x20\\r\\x20]{255}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_15_1.txt"}
+{"regex":"[\\x20&]instancename=#[^&\\x20\\x20\\r\\x20]{513}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_16_1.txt"}
+{"regex":"[\\x20&]mfcisapicommand=#[^&\\r\\x20\\x20\\x20]{250}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_17_1.txt"}
+{"regex":"[\\x20&]sid=#[^&\\x20\\x20\\r\\x20]{255}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_18_1.txt"}
+{"regex":"[\\x20&]username=#[^&\\x20\\x20\\r\\x20]{250}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_19_1.txt"}
+{"regex":"[\\x20&]username=#[^&\\x20\\x20\\r\\x20]{255}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_20_1.txt"}
+{"regex":"[\\x20&]wqPassword=#[^\\r\\x20\\x20\\x20]{294}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_21_1.txt"}
+{"regex":"\\x20\\x20\\x20.{2}\\x20.{3}\\x20\\x20.{32}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_22_1.txt"}
+{"regex":"^ALLO[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_23_1.txt"}
+{"regex":"^APPE[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_24_1.txt"}
+{"regex":"^Authorization\\x20(\\s*|\\s*\\r?\\n\\s+)Basic\\s[^\\n]{25}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_25_1.txt"}
+{"regex":"^Authorization\\x3a([ \\t]*|[ \\t]*\\r?\\n[ \\t]+)Basic[ \\t][^\\n]{51}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_26_1.txt"}
+{"regex":"^CEL[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_28_1.txt"}
+{"regex":"^CMD[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_29_1.txt"}
+{"regex":"^CWD[ \\t][^\\n]{180}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_30_1.txt"}
+{"regex":"^DELE[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_31_1.txt"}
+{"regex":"^DESCRIBE[ ][^\\n]{30}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_32_1.txt"}
+{"regex":"^HELP[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_33_1.txt"}
+{"regex":"^Host\\x20[ ][^\\n]{30}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_34_1.txt"}
+{"regex":"^LIST[^\\n]{120}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_35_1.txt"}
+{"regex":"^MDTM[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_36_1.txt"}
+{"regex":"^MKD[ \\t][^\\n]{180}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_37_1.txt"}
+{"regex":"^NLST[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_38_1.txt"}
+{"regex":"^PASS[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_39_1.txt"}
+{"regex":"^PORT[ \\t][^\\n]{400}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_40_1.txt"}
+{"regex":"^PWD[ \\t][^\\n]{190}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_41_1.txt"}
+{"regex":"^REST[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_43_1.txt"}
+{"regex":"^RETR[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_44_1.txt"}
+{"regex":"^RMDIR[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_45_1.txt"}
+{"regex":"^RMD[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_46_1.txt"}
+{"regex":"^RNFR[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_47_1.txt"}
+{"regex":"^RNTO[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_49_1.txt"}
+{"regex":"^SITE[ \\t]+CHMOD[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_50_1.txt"}
+{"regex":"^SITE[ \\t]+CHOWN[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_51_1.txt"}
+{"regex":"^SITE[ \\t]+CPWD[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_52_1.txt"}
+{"regex":"^SITE[ \\t]+NEWER[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_53_1.txt"}
+{"regex":"^SITE[ \\t]+ZIPCHK[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_54_1.txt"}
+{"regex":"^SITE[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_55_1.txt"}
+{"regex":"^SIZE[ \\t]+[\\x20\\x20][^\\x20\\x20\\x20\\n][^\\n]{526}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_61_1.txt"}
+{"regex":"^STAT[ \\t][^\\n]{190}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_62_1.txt"}
+{"regex":"^STOR[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_63_1.txt"}
+{"regex":"^STOU[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_64_1.txt"}
+{"regex":"^SYST[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_66_1.txt"}
+{"regex":"^TEST[ \\t][^\\n]{100,}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_67_1.txt"}
+{"regex":"^TEST[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_68_1.txt"}
+{"regex":"^USER[ \\t][^\\n]{100,}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_69_1.txt"}
+{"regex":"^USER[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_70_1.txt"}
+{"regex":"^User-Agent\\x20[^\\n]{21}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_71_1.txt"}
+{"regex":"^User-Agent\\x20[^\\n]{24}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_72_1.txt"}
+{"regex":"^XCWD[ \\t][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_73_1.txt"}
+{"regex":"^XMD5[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_74_1.txt"}
+{"regex":"^XMKD[ \\t][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_75_1.txt"}
+{"regex":"^[^\\n]*[\\x7e-\\x7f].*\\nAccept-Language\\x3A\\s*[\\S]{32}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_76_1.txt"}
+{"regex":"^\\x2F40e800[0-9A-F]{30}$", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_77_1.txt"}
+{"regex":"^file\\x20\\x20\\x20[^\\n]{40}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_78_1.txt"}
+{"regex":"^http\\x20\\x20\\x20[^\\n]{40}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-between_79_1.txt"}

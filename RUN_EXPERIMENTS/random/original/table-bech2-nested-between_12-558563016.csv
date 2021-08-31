@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\/Upload\/[a-f0-9]{23}-[a-f0-9]{8}-([a-f0-9]{4}-){3}[a-f0-9]{12}$";./attacks-gadget/snort3-nested_32_1.txt;3.61;0.06;0.45;1.54;3.13;2.36;0.0;1.98;14.26;23.72;0.58;0.72;1.35;1.47;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;49.095207

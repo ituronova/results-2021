@@ -1,0 +1,1 @@
+document\.execCommand\(\s*[\x22\x27]InsertUnorderedList[\x22\x27]\s*\)\s*\x3B.{0,250}\s*\w+\.swapNode\(\s*[A-Za-z\(\)"\'\.\=

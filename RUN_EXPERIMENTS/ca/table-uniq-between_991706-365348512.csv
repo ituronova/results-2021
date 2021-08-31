@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^\w{24,27}$";./attacks-gadget/uniq-between_9047_4.txt;11.88;0.6;10.72;4.01;28.52;3.54;7.38;10.03;TO;TO;14.96;19.42;5.7;10.38;0;0;0;0;0;0;0;0;TO;TO;0;0;0;0;50.0

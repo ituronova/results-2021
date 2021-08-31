@@ -1,0 +1,5 @@
+{"regex":"\\x20create\\s+(aggregate\\s+)*function\\s+\\S{50}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-nested-between_17_1.txt"}
+{"regex":"^Accept\\x2dLanguage\\x3a\\s*(\\w{1,36}\\s*(\\x2e|\\x2d|\\x3b|\\x3d|\\x2c)\\s*)*[^\\x2d\\x3b\\x2c\\x3d\\n]{37}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-nested-between_29_1.txt"}
+{"regex":"^Location\\s*\\x3a\\s*\\w+\\x3a\\/\\/([^\\n]*\\x3a)?[^\\n]{128}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-nested-between_31_1.txt"}
+{"regex":"^Accept\\x2dCharset\\x3a\\s*([^\\x3b\\x3d\\x2c]{1,36}\\s*(\\x2d|\\x3b|\\x3d|\\x2c)\\s*)*[^\\x2d\\x3b\\x2c\\x3d\\n]{37}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-nested-between_01_1.txt"}
+{"regex":"^Content-Disposition\\x20(\\s*|\\s*\\t?\\x20\\s+)[^\\r\\n]*\\{[\\da-fA-F]{8}(-[\\da-fA-F]{4}){3}-[\\da-fA-F]{12}\\}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-nested-between_03_1.txt"}

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\d{5,12}|\d{1,10}\.\d{1,10}\.\d{1,10}|\d{1,10}\.\d{1,10}";./attacks-gadget/Assorted-between_03_3.txt;0.09;0.29;4.67;4.3;37.77;5.92;2.26;14.65;TO;TO;14.3;12.96;5.36;4.25;0;0;0;0;0;0;0;0;TO;TO;0;0;0;0;50.0

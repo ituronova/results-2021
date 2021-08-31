@@ -1,0 +1,3 @@
+{"regex":"CONNECT\\s[^\\s]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/home-brewed-above_00_1.txt"}
+{"regex":"\\x20WebID\\x20IISWebAgentIF.dll[^\\n\\x20\\x20]*\\x20Redirect\\x20url=[^\\n\\x20\\x20]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/home-brewed-above_01_1.txt"}
+{"regex":"\\x20nds[^\\r\\x20]{1000}", "file":"../runGen5/hyperTexts/hyper-03-08/home-brewed-above_02_1.txt"}

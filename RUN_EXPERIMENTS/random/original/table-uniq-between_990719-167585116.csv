@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^((https?|ftp):\/\/)(www\.)?\S{0,30}\.\S+$";./attacks-gadget/uniq-between_9236_3.txt;3.24;0.2;0.66;1.7;6.96;2.3;0.0;3.67;16.85;31.13;1.25;1.91;1.68;1.36;62400;62400;62400;62400;62400;62400;ERR;62400;62400;62400;62400;62400;62400;62400;49.87515

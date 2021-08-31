@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^SITE[ \t][^\n]{100}";./attacks-gadget/yang2010-between_55_1.txt;0.04;0.04;0.02;0.49;0.29;0.56;0.01;0.28;0.08;0.03;0.02;0.05;0.48;0.8;1;1;1;1;1;1;1;0;1;1;1;1;1;1;42.0

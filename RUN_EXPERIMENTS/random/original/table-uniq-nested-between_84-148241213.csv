@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^[^.]{1,63}(\.[^.]{1,63})*$";./attacks-gadget/uniq-nested-between_33_2.txt;100.69;0.73;2.38;2.51;9.16;3.12;1.81;6.37;61.52;169.28;6.36;5.49;3.92;3.12;7142850;7142850;7142850;7142850;7142850;7142850;7142850;7142850;7142850;7142850;7142850;7142850;7142850;7142850;49.99995

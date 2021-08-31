@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^(\s*|[a-zA-Z0-9\- ']{3,50}(,[a-zA-Z0-9\- ']{3,50})*)$";./attacks-gadget/stackoverflow-nested-between_05_1.txt;ERR;2.44;16.25;1.87;46.16;2.67;7.7;43.59;TO;TO;35.37;33.06;8.19;12.14;ERR;49098001;49098000;0;49098000;0;49098000;49098000;TO;TO;49098000;49098000;49098000;49098000;49.098

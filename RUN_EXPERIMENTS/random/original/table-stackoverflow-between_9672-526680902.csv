@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^\/color( set| update)? (#[A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})|([a-zA-Z]{1,20})$";./attacks-gadget/stackoverflow-between_9040_4.txt;6.57;0.8;7.09;4.36;17.16;3.14;0.0;12.26;TO;TO;18.72;16.44;5.08;5.22;0;0;0;0;0;0;ERR;0;TO;TO;0;0;0;0;50.0

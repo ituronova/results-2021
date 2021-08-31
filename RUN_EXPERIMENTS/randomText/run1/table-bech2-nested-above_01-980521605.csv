@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"CREATE\s.*FILE\s+((AS|MEMBER|TO)\s+)?(\x27[^\x27]{512}|\x22[^\x22]{512})";../runGen4/random/random50000.txt;0.24;0.08;0.06;0.68;0.57;1.23;0.06;0.46;2.86;3.15;0.07;0.14;0.64;0.84;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

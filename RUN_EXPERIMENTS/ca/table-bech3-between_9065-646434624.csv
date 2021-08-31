@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^\d+\s+append\s+[^\r\n]*\{[^\r\n}]{128}";./attacks-gadget/bech3-between_9470_1.txt;0.05;0.05;TO;TO;6.33;2.99;70.51;77.54;47.77;11.33;25.76;1.84;10.82;19.05;0;0;TO;TO;0;0;0;0;0;0;0;0;0;0;49.367252

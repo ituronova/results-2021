@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\[\S{1,10}\|\S{1,50}\|\d+\]"", ""\S"", ""|"", ""\w";./attacks-gadget/stackoverflow-between_9624_1.txt;TO;0.12;0.38;2.2;43.08;3.4;16.38;0.27;9.85;0.84;7.87;4.91;8.44;4.52;TO;0;0;0;0;0;0;0;0;0;0;0;0;0;48.14424

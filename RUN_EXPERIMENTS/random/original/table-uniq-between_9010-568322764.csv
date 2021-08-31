@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^[0-9a-f]{32}\+\d+$";./attacks-gadget/uniq-between_05_5.txt;0.0;0.31;0.15;1.52;3.09;1.11;0.2;2.64;1.22;1.66;0.14;0.43;0.8;0.83;0;53550;53550;53550;53550;53550;53550;53550;53550;53550;53550;53550;53550;53550;49.96215

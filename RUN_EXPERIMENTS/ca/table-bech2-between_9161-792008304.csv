@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\x2FPost\x2Easp\x3FUid\x3D[a-f0-9]{8}\x2D[a-f0-9]{8}\x2D[a-f0-9]{8}\x2D[a-f0-9]{8}$";./attacks-gadget/bech2-between_9157_1.txt;0.0;0.05;0.56;1.62;2.25;2.16;0.2;1.86;21.38;28.1;0.96;1.11;1.16;1.46;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.9996

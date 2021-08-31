@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\d{1,15}(,\d{1,14})?";./attacks-gadget/stackoverflow-nested-between_12_4.txt;0.3;0.59;15.43;2.16;18.46;3.16;7.65;12.36;TO;TO;19.79;26.49;6.41;10.49;0;0;0;0;0;0;0;0;TO;TO;0;0;0;0;50.0

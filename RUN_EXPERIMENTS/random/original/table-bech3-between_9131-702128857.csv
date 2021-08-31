@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"Content-Type:[^\r\n]{0,100}\x5C\x20\x20";./attacks-gadget/bech3-between_72_1.txt;0.19;0.47;0.26;1.67;4.73;2.38;0.32;3.13;5.4;6.81;0.22;0.84;1.55;2.26;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.591311

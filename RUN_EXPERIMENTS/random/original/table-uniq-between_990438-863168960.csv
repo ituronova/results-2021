@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^\w{0,3},{0,1}\s{0,1}(\d{1,2})\s(\w{3})\s(\d{2})\s(\d{2}):(\d{2}):{0,1}(\d{0,2})\s([+-]{1}\d{4}|\w{1,20})$";./attacks-gadget/uniq-between_9170_6.txt;0.02;0.21;2.14;4.65;17.69;5.41;194.34;6.74;214.87;154.45;4.27;4.26;6.58;2.26;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.9995

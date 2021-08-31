@@ -1,0 +1,10 @@
+<figure[^>]+dir\s*=\s*[\x22\x27]\s*rtl\s*[\x22\x27].*(&#?x?[a-z\d]{2,4}\x3b){100}
+([etDZhns8dz]{1,3}k){3}[etDZhns8dz]{1,3}f[etDZhns8dz]{16}A
+(\/[0-9a-z]{1,6}){1,5}\/[0-9a-z]{1,7}(\.zip|\.xml|\.htm|\.pdf)\/\?[0-9a-z]{1,3}=[0-9a-z\/+]*=?=?
+.{18}[\x20\x20\x20\x20\x20\x20]\x20\x20\x20.+(\x2E{2}[\x5C\x2F]){2}
+HTTP\/1\.[01].*([^\r\n]){32}
+InformixServerList=([^\r\n\x3B]{,293}\x3B)*[^\r\n\x3B]{294}
+\d{1,8}\x7c.+ \x5b\d{1,2}(\x3a\d{1,2}){2} [AP]M\x2d(\d{1,2}\x2f){2}\d{4}\x5d\x7cDisponible
+\d{1,8}\x7c.+ \x5b\d{1,2}(\x3a\d{1,2}){2} [AP]M\x2d(\d{1,2}\x2f){2}\d{4}\x5d\x7cInactivo
+^.{8}[^\s]+(\s+[^\s]+){49}
+^Accept\x2dCharset\x3a\s*([^\x3b\x3d\x2c]{1,36}\s*[\x2d\x3b\x3d\x2c]\s*)*[^\x2d\x3b\x2c\x3d\n]{37}

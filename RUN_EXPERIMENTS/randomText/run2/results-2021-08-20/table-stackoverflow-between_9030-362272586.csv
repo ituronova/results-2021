@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"(.{4})tvsh(.{4})data(.{8})([\x20-\x7F]+)"", ""tvsh.{4}data.{8}([\x20-\x7F])";../runGen4/random/random50000.txt;0.02;0.06;0.19;1.69;30.43;11.0;0.14;6.96;2.33;3.2;0.07;2.32;3.04;2.7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

@@ -1,0 +1,187 @@
+{"regex":"^COPY[^s]{432}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9285_1.txt"}
+{"regex":"^DELETE[^s]{432}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9289_1.txt"}
+{"regex":"^GET[^s]{432}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9304_1.txt"}
+{"regex":"^HEAD[^s]{432}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9311_1.txt"}
+{"regex":"^LOCK[^s]{432}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9320_1.txt"}
+{"regex":"^MKCOL[^s]{432}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9328_1.txt"}
+{"regex":"^MOVE[^s]{432}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9329_1.txt"}
+{"regex":"^POST[^s]{432}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9337_1.txt"}
+{"regex":"^PUT[^s]{432}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9343_1.txt"}
+{"regex":"^TRACE[^s]{432}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-between_9372_1.txt"}
+{"regex":"^([nN][aA][mM][eE]|[iI][dD]|[nN][uU][mM][bB][eE][rR]|[tT][oO][tT][aA][lL]|[bB][oO][uU][nN][dD][aA][rR][yY])=[\\x20\\x20\\x20]*[^\\r\\n\\x3b\\s\\x2c]{300}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_00_1.txt"}
+{"regex":"^.* LOGIN [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_01_1.txt"}
+{"regex":"^.* LSUB [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_02_1.txt"}
+{"regex":"^.* [aA][uU][tT][hH][eE][nN][tT][iI][cC][aA][tT][eE] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_03_1.txt"}
+{"regex":"^.* [cC][hH][oO][wW][nN] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_04_1.txt"}
+{"regex":"^.* [cC][pP][wW][dD] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_05_1.txt"}
+{"regex":"^.* [lL][iI][sS][tT] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_06_1.txt"}
+{"regex":"^.* [nN][eE][wW][eE][rR] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_07_1.txt"}
+{"regex":"^.* [zZ][iI][pP][cC][hH][kK] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_08_1.txt"}
+{"regex":"^.*Content-Transfer-Encoding:[^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_09_1.txt"}
+{"regex":"^.*Content-Type:[^\\x20]{50}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_10_1.txt"}
+{"regex":"^.*FOLD [^\\x20]{256}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_11_1.txt"}
+{"regex":"^.*SEARCH \\/ HTTP\\/1\\.1\\x20\\x20Host\\x3A.{0,251}\\x20\\x20\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_12_1.txt"}
+{"regex":"^.*SEARCH \\/ HTTP\\/1\\.1\\x20\\x20Host\\x3a.{0,251}\\x20\\x20\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_13_1.txt"}
+{"regex":"^.*[aA][uU][tT][hH][^\\x20]{50}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_14_1.txt"}
+{"regex":"^.*[aA][uU][tT][hH][oO][rR][iI][zZ][aA][tT][iI][oO][nN]: [bB][aA][sS][iI][cC] [^\\x20]{512}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_15_1.txt"}
+{"regex":"^.*[aA][uU][tT][hH][oO][rR][iI][zZ][aA][tT][iI][oO][nN]\\x3A [bB][aA][sS][iI][cC] [^\\x20]{512}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_16_1.txt"}
+{"regex":"^.*[cC][eE][lL] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_17_1.txt"}
+{"regex":"^.*[cC][mM][dD] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_18_1.txt"}
+{"regex":"^.*[cC][oO][nN][tT][eE][nN][tT]-[tT][yY][pP][eE]\\x3A[^\\x20]{50}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_19_1.txt"}
+{"regex":"^.*[cC][wW][dD] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_20_1.txt"}
+{"regex":"^.*[dD][eE][lL][eE] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_21_1.txt"}
+{"regex":"^.*[eE][xX][tT][eE][nN][dD][eE][dD] [mM][oO][dD][uU][lL][eE]\\x3A[^\\x20]{21}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_22_1.txt"}
+{"regex":"^.*[lL][iI][sS][tT][^\\x20]{50}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_23_1.txt"}
+{"regex":"^.*[mM][kK][dD] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_24_1.txt"}
+{"regex":"^.*[pP][aA][sS][sS] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_25_1.txt"}
+{"regex":"^.*[pP][aA][sS][sS][^\\x20]{50}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_26_1.txt"}
+{"regex":"^.*[rR][eE][sS][tT] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_27_1.txt"}
+{"regex":"^.*[rR][mM][dD] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_28_1.txt"}
+{"regex":"^.*[rR][mM][dD][iI][rR] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_29_1.txt"}
+{"regex":"^.*[sS][iI][tT][eE] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_30_1.txt"}
+{"regex":"^.*[sS][tT][aA][tT] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_31_1.txt"}
+{"regex":"^.*[tT][xX][tT][uU][sS][eE][rR][nN][aA][mM][eE]=[^\\x20]{980}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_32_1.txt"}
+{"regex":"^.*[uU][sS][eE][rR] [^\\x20]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_33_1.txt"}
+{"regex":"^.*[uU][sS][eE][rR][^\\x20]{50}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_34_1.txt"}
+{"regex":"^.*[xX][tT][nN][dD][^\\x20]{50}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_35_1.txt"}
+{"regex":"^.*\\x20.{1}\\x20.{29}j\\x28\\x209\\x20\\x7f\\x7f\\x20\\x7f\\x7f\\x20\\x7fO\\x7f\\.\\x7f", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_36_1.txt"}
+{"regex":"^.*\\x20.{33}.*\\x20.*.*\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_37_1.txt"}
+{"regex":"^.*\\x20[lL][oO][cC][aA][tT][iI][oO][nN]\\x3a[^\\x20]{128}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_38_1.txt"}
+{"regex":"^.*\\x20\\x55\\x73\\x65\\x72\\x2d\\x41\\x67\\x65\\x6e\\x74\\x3a.{3,50}\\x4f\\x70\\x65\\x72\\x61\\x2f.*", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_39_1.txt"}
+{"regex":"^.*\\x20\\x55\\x73\\x65\\x72\\x2d\\x41\\x67\\x65\\x6e\\x74\\x3a\\x20.{10,70}rv\\x3a[0-2]\\x2e[0-9].{0,30}Gecko\\x2f(2000|2001|2002).*", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_40_1.txt"}
+{"regex":"^.*\\x20\\x55\\x73\\x65\\x72\\x2d\\x41\\x67\\x65\\x6e\\x74\\x3a\\x20.{10,70}rv\\x3a[0-2]\\x2e[0-9].{0,30}Gecko\\x2f.*", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_41_1.txt"}
+{"regex":"^.*\\x20\\x55\\x73\\x65\\x72\\x2d\\x41\\x67\\x65\\x6e\\x74\\x3a\\x20.{10,90}Netscape\\x2f4\\x2e[0-9].*", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_42_1.txt"}
+{"regex":"^.*\\x20\\x55\\x73\\x65\\x72\\x2d\\x41\\x67\\x65\\x6e\\x74\\x3a\\x20.{10,90}Netscape\\x2f7.*", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_43_1.txt"}
+{"regex":"^.*\\x20\\x55\\x73\\x65\\x72\\x2d\\x41\\x67\\x65\\x6e\\x74\\x3a\\x20.{10,90}Netscape\\x2f8\\x2e[0-9].*", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_44_1.txt"}
+{"regex":"^.*\\x20\\x55\\x73\\x65\\x72\\x2d\\x41\\x67\\x65\\x6e\\x74\\x3a\\x20.{10,90}Netscape\\x2f[4-7].*", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_45_1.txt"}
+{"regex":"^.*\\x20\\x55\\x73\\x65\\x72\\x2d\\x41\\x67\\x65\\x6e\\x74\\x3a\\x20.{5,30}MSIE\\x20[1-9]*.", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_46_1.txt"}
+{"regex":"^.{0,23}Wtzup Use", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_48_1.txt"}
+{"regex":"^.{0,24}ISSPNGRQ", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_49_1.txt"}
+{"regex":"^.{0,24}\\x49\\x53\\x53\\x50\\x4e\\x47\\x52\\x51", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_50_1.txt"}
+{"regex":"^.{0,92}\\x38\\x39\\x3a\\x3b\\x3c\\x3d\\x3e\\x3f", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_51_1.txt"}
+{"regex":"^.{11}\\x20\\x20\\x7f\\x7f.{4}\\x20\\x20\\x20\\x20.{0,251}%x %x", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_52_1.txt"}
+{"regex":"^.{15}\\x20\\x20\\x7f\\x7f.{4}\\x20\\x20\\x20\\x20.{0,251}%x %x", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_53_1.txt"}
+{"regex":"^.{15}\\x20\\x20\\x7f\\x7f.{4}\\x20\\x20\\x20\\x20.{4}.*\\x7C", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_54_1.txt"}
+{"regex":"^.{15}\\x20\\x20\\x7f\\x7f.{4}\\x20\\x20\\x20\\x20.{4}.*\\|", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_55_1.txt"}
+{"regex":"^.{16}\\x20\\x20.{13}\\x20\\x20\\x20\\x20\\x20\\x20\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_56_1.txt"}
+{"regex":"^.{199}\\x7f\\x7f\\x7f\\x7f\\x7f\\x7f\\x20\\x7f\\x7f", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_57_1.txt"}
+{"regex":"^.{24}.{0,17}NAMENAME", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_58_1.txt"}
+{"regex":"^.{24}.{0,17}\\x4e\\x41\\x4d\\x45\\x4e\\x41\\x4d\\x45", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_59_1.txt"}
+{"regex":"^.{27}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_60_1.txt"}
+{"regex":"^.{27}\\x20\\x20\\x20\\x20\\x20\\x20\\x20\\x20\\x20`\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_61_1.txt"}
+{"regex":"^.{287}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_62_1.txt"}
+{"regex":"^.{29}6[iI][sS][sS] [eE][cC][nN][rR][aA] [bB][uU][iI][lL][tT]-[iI][nN] [pP][rR][oO][vV][iI][dD][eE][rR], [sS][tT][rR][oO][nN][gG] [eE][nN][cC][rR][yY][pP][tT][iI][oO][nN]", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_63_1.txt"}
+{"regex":"^.{29}\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_64_1.txt"}
+{"regex":"^.{29}\\x20\\x20\\x20\\x20\\x20\\x20\\x20\\x20\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_65_1.txt"}
+{"regex":"^.{31}.*[rR]\\x20[aA]\\x20[iI]\\x20[sS]\\x20[eE]\\x20[rR]\\x20[rR]\\x20[oO]\\x20[rR]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_66_1.txt"}
+{"regex":"^.{31}.*[xX]\\x20[pP]\\x20_\\x20[cC]\\x20[mM]\\x20[dD]\\x20[sS]\\x20[hH]\\x20[eE]\\x20[lL]\\x20[lL]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_67_1.txt"}
+{"regex":"^.{31}.*[xX]\\x20[pP]\\x20_\\x20[dD]\\x20[iI]\\x20[sS]\\x20[pP]\\x20[lL]\\x20[aA]\\x20[yY]\\x20[pP]\\x20[aA]\\x20[rR]\\x20[aA]\\x20[mM]\\x20[sS]\\x20[tT]\\x20[mM]\\x20[tT]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_68_1.txt"}
+{"regex":"^.{31}.*[xX]\\x20[pP]\\x20_\\x20[eE]\\x20[nN]\\x20[uU]\\x20[mM]\\x20[rR]\\x20[eE]\\x20[sS]\\x20[uU]\\x20[lL]\\x20[tT]\\x20[sS]\\x20[eE]\\x20[tT]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_69_1.txt"}
+{"regex":"^.{31}.*[xX]\\x20[pP]\\x20_\\x20[pP]\\x20[eE]\\x20[eE]\\x20[kK]\\x20[qQ]\\x20[uU]\\x20[eE]\\x20[uU]\\x20[eE]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_70_1.txt"}
+{"regex":"^.{31}.*[xX]\\x20[pP]\\x20_\\x20[pP]\\x20[rR]\\x20[iI]\\x20[nN]\\x20[tT]\\x20[sS]\\x20[tT]\\x20[aA]\\x20[tT]\\x20[eE]\\x20[mM]\\x20[eE]\\x20[nN]\\x20[tT]\\x20[sS]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_71_1.txt"}
+{"regex":"^.{31}.*[xX]\\x20[pP]\\x20_\\x20[pP]\\x20[rR]\\x20[oO]\\x20[xX]\\x20[iI]\\x20[eE]\\x20[dD]\\x20[mM]\\x20[eE]\\x20[tT]\\x20[aA]\\x20[dD]\\x20[aA]\\x20[tT]\\x20[aA]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_72_1.txt"}
+{"regex":"^.{31}.*[xX]\\x20[pP]\\x20_\\x20[sS]\\x20[eE]\\x20[tT]\\x20[sS]\\x20[qQ]\\x20[lL]\\x20[sS]\\x20[eE]\\x20[cC]\\x20[uU]\\x20[rR]\\x20[iI]\\x20[tT]\\x20[yY]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_73_1.txt"}
+{"regex":"^.{31}.*[xX]\\x20[pP]\\x20_\\x20[sS]\\x20[hH]\\x20[oO]\\x20[wW]\\x20[cC]\\x20[oO]\\x20[lL]\\x20[vV]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_74_1.txt"}
+{"regex":"^.{31}.*[xX]\\x20[pP]\\x20_\\x20[sS]\\x20[pP]\\x20[rR]\\x20[iI]\\x20[nN]\\x20[tT]\\x20[fF]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_75_1.txt"}
+{"regex":"^.{31}.*[xX]\\x20[pP]\\x20_\\x20[uU]\\x20[pP]\\x20[dD]\\x20[aA]\\x20[tT]\\x20[eE]\\x20[cC]\\x20[oO]\\x20[lL]\\x20[vV]\\x20[bB]\\x20[mM]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_76_1.txt"}
+{"regex":"^.{31}[sS]\\x20[pP]\\x20_\\x20[aA]\\x20[dD]\\x20[dD]\\x20[uU]\\x20[sS]\\x20[eE]\\x20[rR]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_77_1.txt"}
+{"regex":"^.{31}[sS]\\x20[pP]\\x20_\\x20[sS]\\x20[tT]\\x20[aA]\\x20[rR]\\x20[tT]\\x20_\\x20[jJ]\\x20[oO]\\x20[bB]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_78_1.txt"}
+{"regex":"^.{31}[xX]\\x20[pP]\\x20_\\x20[rR]\\x20[eE]\\x20[gG]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_79_1.txt"}
+{"regex":"^.{3}\\x7fSMB\\x7f.{79}\\x5C[wW][iI][nN][rR][eE][gG]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_80_1.txt"}
+{"regex":"^.{3}\\x7fSMB\\x7f.{79}\\x5C\\x20[wW]\\x20[iI]\\x20[nN]\\x20[rR]\\x20[eE]\\x20[gG]\\x20\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_81_1.txt"}
+{"regex":"^.{3}\\x7fSMBu.{32}.*[aA][dD][mM][iI][nN]\\x24\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_82_1.txt"}
+{"regex":"^.{3}\\x7fSMBu.{32}.*[aA]\\x20[dD]\\x20[mM]\\x20[iI]\\x20[nN]\\x20\\x24\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_83_1.txt"}
+{"regex":"^.{3}\\x7fSMBu.{32}.*[cC]\\x20\\x24\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_84_1.txt"}
+{"regex":"^.{3}\\x7fSMBu.{32}.*[cC]\\x24\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_85_1.txt"}
+{"regex":"^.{3}\\x7fSMBu.{32}.*[dD]\\x20\\x24\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_86_1.txt"}
+{"regex":"^.{3}\\x7fSMBu.{32}.*[dD]\\x24\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_87_1.txt"}
+{"regex":"^.{3}\\x7fSMBu.{32}.*[iI][pP][cC]\\x24\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_88_1.txt"}
+{"regex":"^.{3}\\x7fSMBu.{32}.*[iI]\\x20[pP]\\x20[cC]\\x20\\x24\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_89_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB]%.{56}&\\x20.{4}\\x5CPIPE\\x5C\\x20\\x20\\x20\\x20.{29}\\x7f\\x7f\\x7fk\\x20\\x7f\\x206\\x7f3F\\x7f\\x7f~4Z", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9000_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB]%.{56}&\\x20.{4}\\x5C\\x20P\\x20I\\x20P\\x20E\\x20\\x5C\\x20\\x20\\x20\\x20.{29}\\x7f\\x20\\x20\\x20\\x20\\x20\\x20\\x20\\x7f\\x20\\x20\\x20\\x20\\x20\\x20F", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9001_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB]%.{56}&\\x20.{4}\\x5C\\x20P\\x20I\\x20P\\x20E\\x20\\x5C\\x20\\x20\\x20\\x20.{29}\\x7f\\x7f\\x7fk\\x20\\x7f\\x206\\x7f3F\\x7f\\x7f~4Z", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9002_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB]%.{56}&\\x20.{5}\\x5C[pP][iI][pP][eE]\\x5C\\x20\\x20\\x20\\x20.{29}\\x20\\x7f\\x7f3D\\x22\\x7f1\\x7f\\x7f\\x7f\\x208\\x20\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9003_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB]%.{56}&\\x20.{5}\\x5C\\x20P\\x20I\\x20P\\x20E\\x20\\x5C\\x20\\x20\\x20\\x20\\x20\\x20.{29}xV4\\x204\\x20\\x7f\\x7f\\x7f\\x20\\x20\\x23Eg\\x7f\\x7f", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9004_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB]%.{56}&\\x20.{5}\\x5C\\x20[pP]\\x20[iI]\\x20[pP]\\x20[eE]\\x20\\x5C\\x20.{2}\\x20.{1}\\x20.{21}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9005_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB]%.{56}&\\x20.{5}\\x5C\\x20[pP]\\x20[iI]\\x20[pP]\\x20[eE]\\x20\\x5C\\x20\\x20.{1}\\x20.{29}\\x7fJ\\x7fM\\x20\\}\\x7f\\x20\\x7f\\x20\\x20 \\x7fn\\x7CW", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9006_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB]%.{56}&\\x20.{5}\\x5C\\x20[pP]\\x20[iI]\\x20[pP]\\x20[eE]\\x20\\x5C\\x20\\x20.{1}\\x20.{29}\\x7f\\x20\\x20\\x20\\x20\\x20\\x20\\x20\\x7f\\x20\\x20\\x20\\x20\\x20\\x20F", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9007_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB]%.{56}&\\x20.{5}\\x5C\\x20[pP]\\x20[iI]\\x20[pP]\\x20[eE]\\x20\\x5C\\x20\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9008_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB]%.{56}&\\x20.{5}\\x5C\\x20[pP]\\x20[iI]\\x20[pP]\\x20[eE]\\x20\\x5C\\x20\\x20\\x20\\x20\\x20\\x20.{19}\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9009_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB].{59}.*\\x20.{1}\\x20.{19}\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9010_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB][sS].{42}\\x20\\x20\\x20\\x20.{10}[^\\x20]{255}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9011_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB][sS].{56}.*\\x20.{255}.*\\x20\\x20.*.*\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9012_1.txt"}
+{"regex":"^.{3}\\x7f[sS][mM][bB]\\x25.{56}\\x26\\x20.{5}\\x5c\\x20[pP]\\x20[iI]\\x20[pP]\\x20[eE]\\x20\\x5c\\x20.{2}\\x20.{1}\\x20.{21}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9013_1.txt"}
+{"regex":"^.{42}\\x20\\x20\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9014_1.txt"}
+{"regex":"^.{53}.*[aA][uU][tT][hH][eE][nN][tT][iI][cC][aA][tT][iI][oO][nN] [uU][nN][sS][uU][cC][cC][eE][sS][sS][fF][uU][lL]", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9015_1.txt"}
+{"regex":"^.{59}\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9016_1.txt"}
+{"regex":"^.{62}`.{1}\\x20\\x20\\+\\x20\\x20\\x20\\x20\\x20.*.*\\x20\\x20\\+\\x20\\x20\\x20\\x20\\x7f7\\x20\\x20\\x20.*.*\\x7f\\x20\\x23\\x20\\x20\\x20\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9017_1.txt"}
+{"regex":"^.{62}`.{1}\\x20\\x20\\x20b\\x20\\x7f\\x20\\x20\\x20\\+\\x20\\x20\\x20\\x20\\x20.*.*\\x20\\x20\\+\\x20\\x20\\x20\\x20\\x7f7\\x20\\x20\\x20.*.*\\x7f>0<\\x7f0", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9018_1.txt"}
+{"regex":"^.{82}.*Login failed for user 'sa'", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9019_1.txt"}
+{"regex":"^.{82}.*Login failed for user \\x27sa\\x27", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9020_1.txt"}
+{"regex":"^.{84}.*\\[wW][iI][nN][rR][eE][gG]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9021_1.txt"}
+{"regex":"^.{84}.*\\x20[wW]\\x20[iI]\\x20[nN]\\x20[rR]\\x20[eE]\\x20[gG]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9022_1.txt"}
+{"regex":"^.{84}.*\\x5C[wW][iI][nN][rR][eE][gG]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9023_1.txt"}
+{"regex":"^.{84}.*\\x5C\\x20[wW]\\x20[iI]\\x20[nN]\\x20[rR]\\x20[eE]\\x20[gG]\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9024_1.txt"}
+{"regex":"^200 [^\\x20]{64}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9025_1.txt"}
+{"regex":"^200[\\x20\\x20\\x20][^\\n]{64}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9026_1.txt"}
+{"regex":"^ETRN [^\\x20]{500}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9029_1.txt"}
+{"regex":"^HELO [^\\x20]{500}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9032_1.txt"}
+{"regex":"^SSH-[^\\x20]{600}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9038_1.txt"}
+{"regex":"^[\\x20\\x20\\x20]LOGIN[\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9040_1.txt"}
+{"regex":"^[\\x20\\x20\\x20][aA][uU][tT][hH][eE][nN][tT][iI][cC][aA][tT][eE][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9041_1.txt"}
+{"regex":"^[\\x20\\x20\\x20][fF][iI][nN][dD][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9042_1.txt"}
+{"regex":"^[\\x20\\x20\\x20][lL][iI][sS][tT][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9043_1.txt"}
+{"regex":"^[\\x20\\x20\\x20][lL][sS][uU][bB][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9044_1.txt"}
+{"regex":"^[\\x20\\x20\\x20][rR][eE][nN][aA][mM][eE][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9045_1.txt"}
+{"regex":"^[aA][pP][oO][pP][\\x20\\x20\\x20]+[uU][sS][eE][rR][\\x20\\x20\\x20][^\\n]{2,56}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9046_1.txt"}
+{"regex":"^[aA][pP][oO][pP][\\x20\\x20\\x20][^\\n]{256}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9047_1.txt"}
+{"regex":"^[aA][pP][pP][eE][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9048_1.txt"}
+{"regex":"^[aA][uU][tT][hH][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9049_1.txt"}
+{"regex":"^[aA][uU][tT][hH][\\x20\\x20\\x20][^\\n]{50}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9050_1.txt"}
+{"regex":"^[aA][uU][tT][hH][iI][nN][fF][oO] [uU][sS][eE][rR] [^\\x20]{500}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9051_1.txt"}
+{"regex":"^[aA][uU][tT][hH][iI][nN][fF][oO][\\x20\\x20\\x20]+[uU][sS][eE][rR][\\x20\\x20\\x20][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9052_1.txt"}
+{"regex":"^[aAlLlLoO][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9053_1.txt"}
+{"regex":"^[cC][hH][eE][cC][kK][gG][rR][oO][uU][pP][sS]\\x3a[^\\n]{21}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9054_1.txt"}
+{"regex":"^[eE][tT][rR][nN]][\\x20\\x20\\x20][^\\n]{500}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9055_1.txt"}
+{"regex":"^[eE][xX][pP][nN][^\\n]{255,}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9056_1.txt"}
+{"regex":"^[fF][iI][lL][eE]\\x3a\\x2f\\x2f[^\\n]{400}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9057_1.txt"}
+{"regex":"^[fF][oO][lL][dD][\\x20\\x20\\x20][^\\n]{256}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9058_1.txt"}
+{"regex":"^[hH][eE][lL][oO][\\x20\\x20\\x20][^\\n]{500}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9059_1.txt"}
+{"regex":"^[hH][eE][lL][pP][\\x20\\x20\\x20][^\\n]{500}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9060_1.txt"}
+{"regex":"^[hH][tT]{2}[pP]\\x3a\\x2f\\x2f[^\\n]{400}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9061_1.txt"}
+{"regex":"^[iI][hH][aA][vV][eE]\\x3a[^\\n]{21}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9062_1.txt"}
+{"regex":"^[lL][oO][cC][aA][tT][iI][oO][nN]\\x3a[^\\n]{128}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9063_1.txt"}
+{"regex":"^[mM][aA][iI][lL] [fF][rR][oO][mM]:[\\x20\\x20\\x20]+[a-zA-Z0-9_\\x20\\x20\\x20@\\.]{0,200}\\x3b[a-zA-Z0-9_\\x20\\x20\\x20@\\.]{200,}\\x3b[a-zA-Z0-9_\\x20\\x20\\x20@\\.]{0,200}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9064_1.txt"}
+{"regex":"^[mM][dD][tT][mM][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9065_1.txt"}
+{"regex":"^[nN][aA][mM][eE]=s*[^\\r\\n\\x3b\\x20\\x20\\x20\\x2c]{300}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9066_1.txt"}
+{"regex":"^[nN][eE][wW][gG][rR][oO][uU][pP]\\x3a[^\\n]{21}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9067_1.txt"}
+{"regex":"^[pP][aA][sS][sS][\\x20\\x20\\x20][^\\n]{50}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9068_1.txt"}
+{"regex":"^[pP][rR][iI][vV][mM][sS][gG][\\x20\\x20\\x20]+[nN][iI][cC][kK][sS][eE][rR][vV][\\x20\\x20\\x20]+[iI][dD][eE][nN][tT][iI][fF][yY][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9069_1.txt"}
+{"regex":"^[rR][cC][pP][tT] [tT][oO][\\x20\\x20\\x20][^\\n]{300}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9070_1.txt"}
+{"regex":"^[rR][cC][pP][tT] [tT][oO]\\x3a[\\x20\\x20\\x20]+[a-zA-Z0-9\\x5f\\x20\\x20\\x20\\x40\\.]{0,200}\\x3b[a-zA-Z0-9\\x5f\\x20\\x20\\x20=x40\\.]{200,}\\x3b[a-zA-Z0-9\\x5f\\x20\\x20\\x20\\x40\\.]{0,200}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9071_1.txt"}
+{"regex":"^[rR][mM][gG][rR][oO][uU][pP]\\x3a[^\\n]{21}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9072_1.txt"}
+{"regex":"^[sS][aA][mM][lL] [fF][rR][oO][mM]:[\\x20\\x20\\x20]+[a-zA-Z0-9_\\x20\\x20\\x20@\\.]{0,200}\\x3b[a-zA-Z0-9_\\x20\\x20\\x20@\\.]{200,}\\x3b[a-zA-Z0-9_\\x20\\x20\\x20@\\.]{0,200}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9073_1.txt"}
+{"regex":"^[sS][eE][nN][dD] [fF][rR][oO][mM]:[\\x20\\x20\\x20]+[a-zA-Z0-9\\x5f\\x20\\x20\\x20@\\.]{0,200}\\x3b[a-zA-Z0-9_\\x20\\x20\\x20@\\.]{200,}\\x3b[a-zA-Z0-9_\\x20\\x20\\x20@\\.]{0,200}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9074_1.txt"}
+{"regex":"^[sS][eE][nN][dD][mM][eE]\\x3a[^\\n]{21}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9075_1.txt"}
+{"regex":"^[sS][eE][nN][dD][sS][yY][sS]\\x3a[^\\n]{21}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9076_1.txt"}
+{"regex":"^[sS][eE][nN][dD][uU][uU][nN][aA][mM][eE]\\x3a[^\\n]{21}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9077_1.txt"}
+{"regex":"^[sS][oO][mM][lL] [fF][rR][oO][mM]:[\\x20\\x20\\x20]+[a-zA-Z0-9_\\x20\\x20\\x20@\\.]{0,200}\\x3b[a-zA-Z0-9_\\x20\\x20\\x20@\\.]{200,}\\x3b[a-zA-Z0-9_\\x20\\x20\\x20@\\.]{0,200}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9078_1.txt"}
+{"regex":"^[sS][sS][hH]-[\\x20\\x20\\x20][^\\n]{200}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9079_1.txt"}
+{"regex":"^[sS][tT][oO][uU][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9080_1.txt"}
+{"regex":"^[uU][sS][eE][rR][\\x20\\x20\\x20][^\\n]{49}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9081_1.txt"}
+{"regex":"^[uU][sS][eE][rR][\\x20\\x20\\x20][^\\n]{50,}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9082_1.txt"}
+{"regex":"^[uU][sS][eE][rR][^\\x20]{49}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9083_1.txt"}
+{"regex":"^[uU][sS][eE][rR][nN][aA][mM][eE]\\:[^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9084_1.txt"}
+{"regex":"^[vV][eE][rR][sS][iI][oO][nN]\\x3a[^\\n]{21}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9085_1.txt"}
+{"regex":"^[vV][rR][fF][yY][^\\n]{255,}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9086_1.txt"}
+{"regex":"^[xX][tT][nN][dD][\\x20\\x20\\x20][^\\n]{50}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9087_1.txt"}
+{"regex":"^[xXmMkKdD][\\x20\\x20\\x20][^\\n]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9088_1.txt"}
+{"regex":"^\\x20.*.*\\x3B[^\\x3B]{512}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9089_1.txt"}
+{"regex":"^\\x20.{1}\\x20.{21}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9090_1.txt"}
+{"regex":"^\\x20.{1}\\x20.{29}\\x7fJ\\x7fM\\x20\\}\\x7f\\x20\\x7f\\x20\\x20 \\x7fn\\x7CW", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9091_1.txt"}
+{"regex":"^\\x20.{1}\\x20.{29}\\x7f\\x20\\x20\\x20\\x20\\x20\\x20\\x20\\x7f\\x20\\x20\\x20\\x20\\x20\\x20F", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9092_1.txt"}
+{"regex":"^\\x20.{240}.*\\x20.*.*%.{1}.{0,7}%.{1}.{0,7}%", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9093_1.txt"}
+{"regex":"^\\x20\\x20.{22}\\x7f\\x7f\\x7fk\\x20\\x7f\\x206\\x7f3F\\x7f\\x7f~4Z", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9094_1.txt"}
+{"regex":"^\\x20\\x20\\x20.{29}\\x7f\\x7f\\x7fk\\x20\\x7f\\x206\\x7f3F\\x7f\\x7f~4Z", "file":"../runGen5/hyperTexts/hyper-03-08/bro-between_9096_1.txt"}
+{"regex":"^.{0,114}\\x7f\\x7f\\x7f\\x7f\\x7f\\x7f\\x7f\\x7f\\x7f\\x7f\\x7f\\x7f\\x7f\\x7f", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_06_1.txt"}
+{"regex":"^\\x20\\x20[^\\x20]{100}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_38_1.txt"}

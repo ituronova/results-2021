@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+^[a-z]{0,2000}$;./attacks-gadget/stackoverflow-above_01_1.txt;TO;2.57;ERR;1.64;35.5;3.14;7.22;0.27;TO;TO;29.21;31.38;5.79;11.53;TO;49098001;ERR;0;49098000;0;49098000;ERR;TO;TO;49098000;49098000;49098000;49098000;49.098

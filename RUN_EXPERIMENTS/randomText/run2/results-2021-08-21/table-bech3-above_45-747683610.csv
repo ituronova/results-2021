@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^Authorization\x3a\sDigest[^\n]*(=[^,\s\n\x22\x27]{500}|\s[^=\n\x22\x27]{500})";../runGen4/random/random50000.txt;0.18;0.06;0.04;0.62;0.53;0.63;0.04;0.37;1.82;2.46;0.06;0.27;0.54;0.63;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

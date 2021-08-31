@@ -1,0 +1,4 @@
+X00(X01((P00){1}(T00){1,99}){1,9999}H00)V99
+[link]", ".replace(/(\[(code|link=(.*))\][\s\S]*\[\/(code|link)\])|((http|https):\/\/[\S]{0,2000}\.[a-zA-Z]{2,5}(\/[^\[\]\<\>]*)?)/gi, function (m, g1, g2, g3, g4, g5) { return g1 ? g1 : '<a href="' + g5 + '">' + g5 + '</a>' })", ".replace(/(\[code\][\s\S]*\[\/code\])|\[(link=)((http|https):\/\/[\S]{0,2000}\.[a-zA-Z]{2,5}(\/[^\[\]\<\>]*)?)\]([\s\S]*)\[\/link\]/gi, function (m, g1, g2, g3, g4, g5, g6) { return g1 ? g1 : '<a href="' + g3 + '">' + g6 + '</a>' })", "[link=___]test[/link]
+^([ACGTN]{1,64}\d\n){0,9999}[ACGTN]{1,64}\d$
+^\/?(([0-9a-z]{0,255})||([0-9a-z]{1,255})?([0-9a-z]{1,255}\/)+)[0-9a-z]{1,255}\/?$

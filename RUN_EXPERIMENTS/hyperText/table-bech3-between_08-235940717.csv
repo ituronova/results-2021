@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"V(BA|.BA|B.A).{0,50}C(.reate|r.eate|re.ate|rea.te|reat.e|reate).{0,75}\x22ell";./attacks-gadget/bech1-between_09_1.txt;TO;0.15;0.36;2.33;14.56;3.27;0.04;0.28;5.0;0.24;0.02;0.71;2.92;2.88;TO;0;0;0;0;0;0;0;0;0;0;0;0;0;43.703952

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"(href|src|\.location|\.navigation)\s*=\s*[\x22\x27]?\s*https?\x3a\x2f{2}[^@&?\s\x22\x27\x2f\x3a]{255}";../runGen4/random/random50000.txt;0.04;0.06;0.22;0.88;3.37;1.22;0.09;7.36;3.54;3.23;0.07;0.69;1.68;0.84;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

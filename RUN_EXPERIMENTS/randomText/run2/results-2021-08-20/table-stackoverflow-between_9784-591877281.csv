@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^(B\d{2}-\d{4})\s{5,}(COMBINATION)\s{10,}(\d{2,4}\s.*)\s{2,}([\d,.]{2,4}.*)\s{2,}([\d,.]{2,4}.*)\s{2,}([\d,.]{2,4}.*)"", "".*"", ""\S*";../runGen4/random/random50000.txt;0.02;0.06;0.06;0.74;0.58;1.38;0.02;0.43;5.52;3.6;0.07;0.76;0.67;0.92;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

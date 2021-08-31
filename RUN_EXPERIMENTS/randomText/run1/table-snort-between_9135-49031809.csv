@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"connectID=[^&\x3b\r\n]{255}";../runGen4/random/random50000.txt;0.03;0.06;0.06;0.64;0.56;0.99;0.04;0.44;0.96;3.2;0.06;0.14;0.56;0.84;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

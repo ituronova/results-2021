@@ -1,0 +1,55 @@
+{"regex":"\"[ACGT]{1,12000}(AAC)[AG]{2,5}[ACGT]{2,5}(CTGTGTA)\"\", \"paste(\"(CTAAA)[AC]{5,100}(TTTGGG)\", rule_1, \"(CTT)[AG]{10,5000}\", rule_2, sep=\"\"", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_21_1.txt"}
+{"regex":"\" {10000}\"", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_80_1.txt"}
+{"regex":"\"([a-zA-Z0-9]{0,4000})\"", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_81_1.txt"}
+{"regex":"\"<dxh ....>\"\", \"str=`aaa<div>{{4567}}aaa</div>bbb{{12345}}amrambler`\", \"\"{{12345}}\"\", \"\"{{4567}}\"", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_82_1.txt"}
+{"regex":".{1,1000}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_84_1.txt"}
+{"regex":"^([a-z]|[0-9]| |,|'|\\.|!|\\?){1,4000}$", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_85_1.txt"}
+{"regex":"^.{0,1000}$", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_86_1.txt"}
+{"regex":"^.{0,1999}$", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_87_1.txt"}
+{"regex":"^.{0,5000}$", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_88_1.txt"}
+{"regex":"^.{3,5000}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_89_1.txt"}
+{"regex":"^[^/\\\\#?]{0,1024}$", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9000_1.txt"}
+{"regex":"^[a-z0-9 ,'.!?]{1,4000}$", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9001_1.txt"}
+{"regex":"^[a-z]{0,2000}$", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9002_1.txt"}
+{"regex":"^\\d{1,980989}$", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9003_1.txt"}
+{"regex":"'','','{12345678},{87654321}','lk12l1k2l12lkl12lkl121l2lk12'\", \"'(.*)',|'(.*)'", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_04_1.txt"}
+{"regex":"'[\\s][A-Z,a-z,0-9]{0,1000}[\\s]'", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_05_1.txt"}
+{"regex":"'[{1,2,3,4}, 3, 5,2,4, {1,2}, {1,2,3,4}, {1,33,3443}]'\", \"[{1,2,3,4}, 3, 5,2,4, {1,2}, {1,2,3,4}, {1,33,3443}, 1..10]\", \"expected = ['{1,2,3,4}', '3', '5', '2', '4', '{1,2}', '{1,2,3,4}', '{1,33,3443}', '1..10']", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_06_1.txt"}
+{"regex":"(ABCHEHG)[HGE]{5,1230}(EEJOPK)[DM]{5}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_07_1.txt"}
+{"regex":"(ABCHEHG)[HGHE]{5,1230}(EEJOPK)[DM]{5}\", \"(ABCHEHG)[HGHE]{5,1230}(EEJOPK)[DM]{5}[ACF]{1,1000}(BBBA)[CU]{2,5}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_08_1.txt"}
+{"regex":".split()\", \"\"{{231111}}\"", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_09_1.txt"}
+{"regex":".{0,4980}(\\<\\/div\\>|\\<\\/p\\>|\\<\\/section\\>|\\<\\/blockquote\\>|\\<\\/br\\>|\\.\\s)", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_10_1.txt"}
+{"regex":".{10,4000}$", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_12_1.txt"}
+{"regex":".{30000}.{10000}\", \".{40000}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_13_1.txt"}
+{"regex":"<.{1,10000}>", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_14_1.txt"}
+{"regex":"<title>(.{1000,})</title>", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_15_1.txt"}
+{"regex":"String.match\", \"{853269}\", \"String.prototype.match", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_16_1.txt"}
+{"regex":"Text1{489.15,274.3},text2{183.24,1.2},text3{192,1001}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_17_1.txt"}
+{"regex":"XYZ Company [- Phone: [({404}) ]{321-4321} [Ext: {6789}]]\", \"XYZ Company - Phone: (404) 321-4321 Ext: 6789\", \"XYZ Company - Phone: (404) 321-4321\", \"[ ]", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_18_1.txt"}
+{"regex":"[%=:]{1000,}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_19_1.txt"}
+{"regex":"[999]\", \"{242424} from X [100] bulks, linked to {57575757} from Y for [500] units\", \"{12345}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_20_1.txt"}
+{"regex":"[\\s\\S]{0,500}\", \".{0,500}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_21_1.txt"}
+{"regex":"[\\s\\S]{1,2000}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_22_1.txt"}
+{"regex":"[\\s\\S]{1,999}\\W|[\\s\\S]{1,1000}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_23_1.txt"}
+{"regex":"[\\w\\x20\\t]{0,1000}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_24_1.txt"}
+{"regex":"[a-zA-Z,]{1,1024}\", \"[a-zA-Z,]{1,1025}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_25_1.txt"}
+{"regex":"[a-z]{1000}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_26_1.txt"}
+{"regex":"[ftp:\\/\\/www\\/.-https:\\/\\/-http:\\/\\/][a-zA-Z0-9u00a1-uffff0]{1,3}[^ ]{1,1000}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_27_1.txt"}
+{"regex":"\\<![ \\t\\x20\\t]*--[\\S\\s]{400,6000}--[ \\t\\x20\\t]*\\>", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_28_1.txt"}
+{"regex":"\\n\", \".{0,1000}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_29_1.txt"}
+{"regex":"\\w[^\\.!\\?]{400,600}[\\.!\\?]\", \"{400,600}\", \".\", \"\\w\", \".*\", \".{400,600}\", \"[^\\.!\\?]\", \"?", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_30_1.txt"}
+{"regex":"^([-a-zA-Z\\/\\-\\&\\\\\\?\\!\\,\\.\\'\"\\s0-9@:=_]{1,1000})$", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_31_1.txt"}
+{"regex":"^([\\S\\s]{1000})", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_32_1.txt"}
+{"regex":"^.{10,4000}$", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_37_1.txt"}
+{"regex":"^[ ]*([[A-Za-z0-9_][ ]\\?\\\\:\\!\"\\u0022\\$%]{1,2046})[ ]*$", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_39_1.txt"}
+{"regex":"^[a-z0-9\\s_@/.-]{1,4095}$", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_42_1.txt"}
+{"regex":"^[a-zA-Z0-9',!?~>+&\"\\-@#%*.\\s]{1,1000}$", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_43_1.txt"}
+{"regex":"abcd{1234}\", \"[^}{]+", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_46_1.txt"}
+{"regex":"a{20001}\", \"texts = [os.urandom(20000) for x in range(20000)]\", \"0.013\", \"'a{%d}' % (len(input)+1)", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_47_1.txt"}
+{"regex":"d.{40000}o.{40000}g.{40000}s", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_48_1.txt"}
+{"regex":"jQuery('#ed_ru').val(jQuery('#ed_ru').val() + '{{'+id+'}} ')\", \"{{231111}}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_49_1.txt"}
+{"regex":"regex(\".{40000}\")\", \"regex_match(\"\", regex(\".{40000}\"))", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_50_1.txt"}
+{"regex":"s = {6} {56780} {Sample String}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_51_1.txt"}
+{"regex":"set a {35214}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_52_1.txt"}
+{"regex":"set promptInfo [oBOTANDROID2 launchVapiEiCmd getinfo]\", \"VAPIEI Cmd Rcvd: {state inservice} {type dmc} {description {BOTSP2,10.77.41.154,tcp(dmc)}} {lines 2} {calls 2} {streams 4} {{primary cm} 10.77.41.11} {{backup cm} } {status {}} {id dmc2} {userid } {{last error} {}} {{delay offer} false} {{Voice Mail client status} {inactive}} {{primary cti} {}} {{backup cti} {}} {{current cti} {}} {{preferred mode} {voip}} {{call type} {voip}} {{domain} {}} {{ixenabled} {no}} {{esrstvernego} {null}} {{ipv4address} {10.77.41.154}} {{ipv6address} {}} {{deploymentmodel} {on-premise}} {{login type} {uc-directory}} {centraluds {}} {{sip port} {42708}} {privacy disabled}", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_53_1.txt"}
+{"regex":"string :[[text hundred any text1 (two hundred) text2 three hundred, four hundred, five hundred not{600} ]]\", \"string :[[text, hundred, any text1(, two hundred, )text2, three hundred, four hundred, five hundred, not, {600}, ]] but\", \"\"[text hundred any text1 (two hundred) text2 three hundred,four hundred,five hundred not{600}]\"", "file":"../runGen5/hyperTexts/hyper-03-08/stackoverflow-above_54_1.txt"}

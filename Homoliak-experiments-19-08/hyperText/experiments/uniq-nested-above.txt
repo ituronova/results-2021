@@ -1,0 +1,5 @@
+{"regex":"^([0-9]{1,12},){0,1000}[0-9]{1,12}$", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_9043_1.txt"}
+{"regex":"([*]a[_] ){49999}[*]a_", "file":"../runGen5/hyperTexts/hyper-03-08/uniq-nested-above_00_1.txt"}
+{"regex":"\\[(https?|news|ftp|mailto|gopher|irc)(:\\/\\/[^\\]\\| ]{4,1500})([\\| ].*)?\\]", "file":"../runGen5/hyperTexts/hyper-03-08/uniq-nested-above_01_1.txt"}
+{"regex":"\\[(https?|news|ftp|mailto|gopher|irc):\\/\\/[^\\]\\| ]{4,1500}([\\| ].*)?\\]", "file":"../runGen5/hyperTexts/hyper-03-08/uniq-nested-above_02_1.txt"}
+{"regex":"^grub\\.pbkdf2\\.sha512\\.[0-9]+\\.([a-f0-9]{128,2048}\\.|[0-9]+\\.)?[a-f0-9]{128}$", "file":"../runGen5/hyperTexts/hyper-03-08/uniq-nested-above_04_1.txt"}

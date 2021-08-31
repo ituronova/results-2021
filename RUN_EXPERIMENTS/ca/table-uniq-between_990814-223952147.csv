@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^C1(\d{11})EUR(\d{4})(\d{2})(\d{2})(\d{3}).pdf$";./attacks-gadget/uniq-between_9171_6.txt;0.29;0.59;9.14;1.83;17.81;5.98;6.33;10.15;TO;TO;15.38;16.12;6.62;11.11;0;0;0;0;0;0;0;0;TO;TO;0;0;0;0;50.0

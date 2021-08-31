@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\<\d{4,15} (pen|under)[\w]{1,20}";./attacks-gadget/TrustPort-between_54_1.txt;0.03;0.23;0.8;2.86;4.13;2.92;0.0;1.24;97.66;60.82;1.18;1.88;1.04;2.7;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;49.095648

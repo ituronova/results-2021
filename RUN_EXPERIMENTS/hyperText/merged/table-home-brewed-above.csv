@@ -1,0 +1,4 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"CONNECT\s[^\s]{1024}";./attacks-gadget/home-brewed-above_00_1.txt;0.92;0.7;ERR;1.14;2.23;1.02;3.75;0.3;0.47;0.07;0.7;0.34;0.76;0.85;1;0;ERR;0;0;0;0;ERR;0;0;0;0;0;0;42.0
+"\x20WebID\x20IISWebAgentIF.dll[^\n\x20\x20]*\x20Redirect\x20url=[^\n\x20\x20]{1024}";./attacks-gadget/home-brewed-above_01_1.txt;0.96;0.27;ERR;1.34;1.08;1.09;0.11;0.26;0.25;0.04;0.33;0.27;0.94;0.82;0;0;ERR;0;0;0;0;ERR;0;0;0;0;0;0;42.0
+"\x20nds[^\r\x20]{1000}";./attacks-gadget/home-brewed-above_02_1.txt;0.93;0.82;0.16;1.3;2.77;1.2;0.09;0.29;0.8;0.13;1.4;0.46;0.88;0.9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;42.0

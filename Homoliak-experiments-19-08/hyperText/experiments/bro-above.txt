@@ -1,0 +1,9 @@
+{"regex":"^([pP][aA][cC][kK][aA][gG][eE]|[pP][rR][oO][cC][eE][dD][uU][rR][eE])_[pP][rR][eE][fF][iI][xX][\\x20]*=>[\\x20]*('[^']{1000,}|\"[^\"]{1000,})", "file":"../runGen5/hyperTexts/hyper-03-08/bro-above_00_1.txt"}
+{"regex":"^.* BODY\\.PEEK\\[[^\\]]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-above_01_1.txt"}
+{"regex":"^.* BODY\\[[^\\]]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-above_02_1.txt"}
+{"regex":"^.* CREATE [^\\x20]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-above_03_1.txt"}
+{"regex":"^.* [fF][iI][nN][dD] [^\\x20]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-above_04_1.txt"}
+{"regex":"^.* [rR][eE][nN][aA][mM][eE] [^\\x20]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-above_05_1.txt"}
+{"regex":"^[\\x20\\x20\\x20][cC][rR][eE][aA][tT][eE][\\x20\\x20\\x20][^\\n]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-above_06_1.txt"}
+{"regex":"^[\\x20\\x20\\x20][pP][aA][rR][tT][iI][aA][lL].*[bB][oO][dD][yY]\\.[pP][eE][eE][kK]\\[[^\\]]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-above_07_1.txt"}
+{"regex":"^[\\x20\\x20\\x20][pP][aA][rR][tT][iI][aA][lL].*[bB][oO][dD][yY]\\[[^\\]]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bro-above_08_1.txt"}

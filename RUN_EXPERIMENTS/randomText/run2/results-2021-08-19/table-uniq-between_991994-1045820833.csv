@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+link rel='stylesheet' href='/css/screen.[a-f0-9]{32}.css' media='screen';../runGen4/random/random50000.txt;0.0;0.05;0.07;0.67;0.52;1.07;0.04;0.41;1.7;3.08;0.09;0.15;0.6;0.85;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

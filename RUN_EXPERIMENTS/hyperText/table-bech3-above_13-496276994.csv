@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"<EMBED[^>]+src\s*=\s*(\x22[^\x22]{1024}|\x27[^\x27]{1024}|[^\s]{1024})";./attacks-gadget/bech3-above_07_1.txt;TO;1.45;ERR;1.39;TO;3.06;9.16;0.29;TO;0.12;TO;TO;TO;TO;TO;0;ERR;0;TO;0;0;ERR;TO;0;TO;TO;TO;TO;42.0

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^\/api\/([\w]+)\/([\w]+)(\/([a-f0-9]{24}))?\/?\??.*$";./attacks-gadget/stackoverflow-nested-between_51_5.txt;0.0;0.13;0.67;1.46;1.85;1.24;0.0;1.2;150.24;71.38;0.94;1.62;1.11;2.62;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;50.0

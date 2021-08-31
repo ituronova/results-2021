@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^.{31}.*[xX]\x20[pP]\x20_\x20[cC]\x20[mM]\x20[dD]\x20[sS]\x20[hH]\x20[eE]\x20[lL]\x20[lL]\x20";./attacks-gadget/bro-between_65_1.txt;0.17;0.18;0.45;1.62;4.77;1.75;0.28;2.53;42.64;24.06;0.91;1.23;0.76;2.32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.098

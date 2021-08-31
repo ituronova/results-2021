@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"sweet_assets_([\w\d]{32}).js";./attacks-gadget/uniq-between_992081_1.txt;0.07;0.19;0.56;1.83;1.98;1.85;1.77;1.34;12.55;31.71;0.82;0.74;1.04;1.17;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.248

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"http://\\.?video\\.google+\\.[A-Za-z0-9_]{2,3}/videoplay\\?docid=[[A-Za-z0-9_]-]{19}";./attacks-gadget/Assorted-between_34_1.txt;0.0;0.19;0.79;1.82;2.9;1.58;0.44;1.83;19.92;33.31;0.56;0.89;1.48;1.19;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.4

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+M{5000};./attacks-gadget/uniq-above_18_1.txt;TO;0.04;ERR;TO;0.43;2.87;TO;0.28;TO;0.36;0.02;0.08;0.55;TO;TO;0;ERR;TO;0;0;TO;ERR;TO;0;0;0;0;TO;50.0

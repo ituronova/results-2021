@@ -1,0 +1,61 @@
+(0x)?[0-9a-f]+\s+\S{65}|(0x)?[0-9a-f]+\s+\S+\s+(0x[0-9a-f]+)|(0[0-8]+)|([1-9]\d*)\s+(0x)?[0-9a-f]+\s+\S{65}|(0x)?[0-9a-f]+\s+\S+\s+(0x[0-9a-f]+)|(0[0-8]+)|([1-9]\d*)\s+(0x)?[0-9a-f]+\s+\S+\s+(0x[0-9a-f]+)|(0[0-8]+)|([1-9]\d*)\s+(0x)?[0-9a-f]+\s+\S{65}|(0x)?[0-9a-f]+\s+\S+\s+(0x[0-9a-f]+)|(0[0-8]+)|([1-9]\d*)\s+(0x)?[0-9a-f]+\s+\S+\s+(0x[0-9a-f]+)|(0[0-8]+)|([1-9]\d*)\s+(0x)?[0-9a-f]+\s+\S+\s+(0x[0-9a-f]+)|(0[0-8]+)|([1-9]\d*)\s+(0x)?[0-9a-f]+\s+\S{65}
+(name|id|number|total|boundary)=\s*[^\r\n\x3b\s\x2c]{300}
+WebAdmin\x2Edll\x3F[^\r\n]*View=Logon.*[^\r\n\x26]*User=[^\r\n\x26]{100}
+\s{23}DIMBUS\s+Server\s+v\d+\x2E\d+
+^\S{65}|\S+\s+\S{65}|\S+\s+\S+\s+\S{65}
+[\x20-t][bcdfghjklmnpqrstvwxyz]{5,32}\x20ru
+\S{190}.rt
+.* LOGIN [^\x20]{100}
+.* LSUB [^\x20]{100}
+.* [aA][uU][tT][hH][eE][nN][tT][iI][cC][aA][tT][eE] [^\x20]{100}
+.* [cC][hH][oO][wW][nN] [^\x20]{100}
+.* [cC][pP][wW][dD] [^\x20]{100}
+.* [lL][iI][sS][tT] [^\x20]{100}
+.* [nN][eE][wW][eE][rR] [^\x20]{100}
+.* [zZ][iI][pP][cC][hH][kK] [^\x20]{100}
+.*FOLD [^\x20]{256}
+.*SEARCH \/ HTTP\/1\.1\x20\x20Host\x3a.{0,251}\x20\x20\x20\x20
+.*[aA][uU][tT][hH][oO][rR][iI][zZ][aA][tT][iI][oO][nN]: [bB][aA][sS][iI][cC] [^\x20]{512}
+.*[cC][eE][lL] [^\x20]{100}
+.*[cC][mM][dD] [^\x20]{100}
+.*[cC][wW][dD] [^\x20]{100}
+.*[dD][eE][lL][eE] [^\x20]{100}
+.*[mM][kK][dD] [^\x20]{100}
+.*[pP][aA][sS][sS] [^\x20]{100}
+.*[pP][rR][iI][vV][mM][sS][gG] [nN][iI][cC][kK][sS][eE][rR][vV] [iI][dD][eE][nN][tT][iI][fF][yY][^\x20]{150}
+.*[rR][eE][sS][tT] [^\x20]{100}
+.*[rR][mM][dD] [^\x20]{100}
+.*[rR][mM][dD][iI][rR] [^\x20]{100}
+.*[sS][iI][tT][eE] [^\x20]{100}
+.*[sS][tT][aA][tT] [^\x20]{100}
+.*[uU][sS][eE][rR] [^\x20]{100}
+.*\x20[lL][oO][cC][aA][tT][iI][oO][nN]\x3a[^\x20]{128}
+.{0,24}\x49\x53\x53\x50\x4e\x47\x52\x51
+.{0,92}\x38\x39\x3a\x3b\x3c\x3d\x3e\x3f
+.{11}\x20\x20\x7f\x7f.{4}\x20\x20\x20\x20.{0,251}%x %x
+.{15}\x20\x20\x7f\x7f.{4}\x20\x20\x20\x20.{0,251}%x %x
+.{15}\x20\x20\x7f\x7f.{4}\x20\x20\x20\x20.{4}.*\|
+.{199}\x7f\x7f\x7f\x7f\x7f\x7f\x20\x7f\x7f
+.{24}.{0,17}\x4e\x41\x4d\x45\x4e\x41\x4d\x45
+.{29}6[iI][sS][sS] [eE][cC][nN][rR][aA] [bB][uU][iI][lL][tT]-[iI][nN] [pP][rR][oO][vV][iI][dD][eE][rR], [sS][tT][rR][oO][nN][gG] [eE][nN][cC][rR][yY][pP][tT][iI][oO][nN]
+.{31}.*[rR]\x20[aA]\x20[iI]\x20[sS]\x20[eE]\x20[rR]\x20[rR]\x20[oO]\x20[rR]\x20
+.{31}.*[xX]\x20[pP]\x20_\x20[cC]\x20[mM]\x20[dD]\x20[sS]\x20[hH]\x20[eE]\x20[lL]\x20[lL]\x20
+.{31}.*[xX]\x20[pP]\x20_\x20[eE]\x20[nN]\x20[uU]\x20[mM]\x20[rR]\x20[eE]\x20[sS]\x20[uU]\x20[lL]\x20[tT]\x20[sS]\x20[eE]\x20[tT]\x20
+.{31}.*[xX]\x20[pP]\x20_\x20[pP]\x20[eE]\x20[eE]\x20[kK]\x20[qQ]\x20[uU]\x20[eE]\x20[uU]\x20[eE]\x20
+.{31}.*[xX]\x20[pP]\x20_\x20[pP]\x20[rR]\x20[iI]\x20[nN]\x20[tT]\x20[sS]\x20[tT]\x20[aA]\x20[tT]\x20[eE]\x20[mM]\x20[eE]\x20[nN]\x20[tT]\x20[sS]\x20
+.{31}.*[xX]\x20[pP]\x20_\x20[pP]\x20[rR]\x20[oO]\x20[xX]\x20[iI]\x20[eE]\x20[dD]\x20[mM]\x20[eE]\x20[tT]\x20[aA]\x20[dD]\x20[aA]\x20[tT]\x20[aA]\x20
+.{31}.*[xX]\x20[pP]\x20_\x20[sS]\x20[eE]\x20[tT]\x20[sS]\x20[qQ]\x20[lL]\x20[sS]\x20[eE]\x20[cC]\x20[uU]\x20[rR]\x20[iI]\x20[tT]\x20[yY]\x20
+.{31}.*[xX]\x20[pP]\x20_\x20[sS]\x20[hH]\x20[oO]\x20[wW]\x20[cC]\x20[oO]\x20[lL]\x20[vV]\x20
+.{31}.*[xX]\x20[pP]\x20_\x20[sS]\x20[pP]\x20[rR]\x20[iI]\x20[nN]\x20[tT]\x20[fF]\x20
+.{31}.*[xX]\x20[pP]\x20_\x20[uU]\x20[pP]\x20[dD]\x20[aA]\x20[tT]\x20[eE]\x20[cC]\x20[oO]\x20[lL]\x20[vV]\x20[bB]\x20[mM]\x20
+.{31}[sS]\x20[pP]\x20_\x20[aA]\x20[dD]\x20[dD]\x20[uU]\x20[sS]\x20[eE]\x20[rR]\x20
+.{31}[xX]\x20[pP]\x20_\x20[rR]\x20[eE]\x20[gG]\x20
+.{3}\x7f[sS][mM][bB]\x25.{56}\x26\x20.{5}\x5c\x20[pP]\x20[iI]\x20[pP]\x20[eE]\x20\x5c\x20.{2}\x20.{1}\x20.{21}\x20
+.{42}\x20\x20\x20\x20
+.{82}.*Login failed for user \x27sa\x27
+.{84}.*\x20[wW]\x20[iI]\x20[nN]\x20[rR]\x20[eE]\x20[gG]\x20
+<OBJECT\s+[^>]*type\s*=[\x22\x27]\x2f{32}
+[\x20-t][bcdfghjklmnpqrstvwxyz]{5,32}\x20cn
+\s{230,}.htr
+\w{200,}\x3a.*
+\x2Fbi\x2Fservlet\x2FThinstall(Pre|Result).*(\r|\n)User-Agent\x3A[^\r\n]*\.exe[^\r\n]*\x7B[\dA-Za-z]{8}-[\dA-Za-z]{4}-[\dA-Za-z]{4}-[\dA-Za-z]{4}-[\dA-Za-z]{12}\x7D\x7C[\dA-Za-z]{8}\x7C\d{5}-\d{3}-\d{7}-\d{5}

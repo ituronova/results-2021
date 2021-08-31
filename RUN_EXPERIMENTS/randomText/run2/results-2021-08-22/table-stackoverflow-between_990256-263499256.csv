@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"https://sites.google.com/a/domain.com/image-store/_/rsrc/1351707816362/images/Image1.jpg"", ""https[\.a-zA-Z0-9\/+:\w-]{0,100}Image1.jpg";../runGen4/random/random50000.txt;0.01;0.07;0.07;1.48;0.55;2.22;0.0;0.47;2.67;3.1;0.08;0.15;0.57;0.84;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;52.4288

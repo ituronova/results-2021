@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"([0-9]{1,9999})\:([0-9]{1,9999})";./attacks-gadget/uniq-above_03_2.txt;TO;3.13;ERR;1.63;TO;2.97;0.0;0.3;TO;TO;0.04;TO;TO;TO;TO;0;ERR;0;TO;0;ERR;ERR;TO;TO;0;TO;TO;TO;49.5495

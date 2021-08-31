@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^\@I ID3:(.{30})(.{30})(.{30})(....)(.{30})(.*)$";./attacks-gadget/uniq-between_9214_6.txt;0.21;0.1;0.17;0.68;1.76;4.46;0.0;2.67;1.38;1.52;0.09;0.14;0.78;0.85;48450;48450;48450;48450;48450;48450;ERR;48450;48450;48450;48450;48450;48450;48450;49.95195

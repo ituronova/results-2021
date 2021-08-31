@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"([a-zA-Z0-9-\,\s]{2,64})";./attacks-gadget/Assorted-between_17_1.txt;ERR;0.67;5.41;4.46;18.46;3.42;0.0;9.24;186.78;TO;8.09;10.01;5.33;4.28;ERR;0;0;0;0;0;ERR;0;0;TO;0;0;0;0;48.93

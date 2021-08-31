@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^otpauth://hotp/roberto\?secret=\w{32}&counter=0$";../runGen4/random/random50000.txt;0.0;0.04;0.04;1.2;0.47;1.1;0.03;0.36;1.33;3.28;0.07;0.7;0.55;0.82;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

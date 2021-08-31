@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"pyWinUSB\/\w{40}\/source\/(.*)";../runGen4/random/random50000.txt;0.02;0.06;0.05;1.38;0.62;1.64;0.0;0.5;1.33;3.52;0.08;0.15;0.68;1.02;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;52.4288

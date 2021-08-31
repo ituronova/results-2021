@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"0{16}[ \t]+G?OMP_(\d{1,2})[.](\d{1,2})[.]?\d{,3}[ \t]+";./attacks-gadget/uniq-between_26_6.txt;0.29;0.59;15.85;1.86;18.0;3.73;0.0;10.88;TO;TO;0.01;18.25;0.06;11.73;0;0;0;0;0;0;ERR;0;TO;TO;0;0;;0;50.0

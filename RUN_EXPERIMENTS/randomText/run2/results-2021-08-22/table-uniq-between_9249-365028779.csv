@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+.*The zone with id '[0-9a-zA-Z-]{36}' was not found.*;../runGen4/random/random50000.txt;0.01;0.06;0.2;1.67;TO;1.08;0.13;3.54;1.41;3.13;0.07;41.8;145.37;49.96;0;0;0;0;TO;0;0;0;0;0;0;0;0;0;52.4288

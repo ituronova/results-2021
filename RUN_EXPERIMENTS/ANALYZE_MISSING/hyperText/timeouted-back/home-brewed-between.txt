@@ -1,0 +1,4 @@
+WebAdmin\x2Edll\x3F[^\r\n]*View=Logon.*[^\r\n\x26]*User=[^\r\n\x26]{100}
+\s{230,}\.htr
+[\x20-t][bcdfghjklmnpqrstvwxyz]{5,32}\x20n
+\s*Cookie\s*\x3a.*OvOSLocale\s*\x3d\s*[^\x3b\s]{249}

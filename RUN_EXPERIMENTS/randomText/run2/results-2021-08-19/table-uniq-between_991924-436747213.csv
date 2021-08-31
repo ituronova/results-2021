@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"fatal: (Path ""([^""]+)"" does not exist in ""([0-9a-f]{40})""|ambiguous argument ""([^""]+)"": unknown revision or path not in the working tree.)";../runGen4/random/random50000.txt;0.02;0.06;0.06;0.68;0.58;1.28;0.04;0.44;3.06;3.2;0.07;0.14;0.62;0.85;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

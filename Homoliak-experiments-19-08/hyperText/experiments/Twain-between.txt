@@ -1,0 +1,2 @@
+{"regex":"Tom.{10,25}river|river.{10,25}Tom", "file":"../runGen5/hyperTexts/hyper-03-08/Twain-between_00_1.txt"}
+{"regex":"[\"'][^\"']{0,30}[?!\\.][\"']", "file":"../runGen5/hyperTexts/hyper-03-08/Twain-between_01_1.txt"}

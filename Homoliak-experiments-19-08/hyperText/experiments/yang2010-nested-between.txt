@@ -1,0 +1,3 @@
+{"regex":".*<ref\\s+href\\s*=\\s*\\x22([^\\x22]{2}|(\\x25[0-9A-Z]{2}){1,2})\\x3A\\x2F[^\\x22]{100}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-nested-between_00_1.txt"}
+{"regex":".*wallclock\\x28((\\d{2}\\x3A){2}\\d{2}\\.\\d{11}|\\d{4}-\\d{2}-\\d{2}T(\\d{2}\\x3A){2}\\d{2}\\.\\d{11})", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-nested-between_01_1.txt"}
+{"regex":"^Content-Disposition\\x20(\\s*|\\s*\\t?\\x20\\s+)[^\\r\\x20]*\\{[\\da-fA-F]{8}(-[\\da-fA-F]{4}){3}-[\\da-fA-F]{12}\\}", "file":"../runGen5/hyperTexts/hyper-03-08/yang2010-nested-between_02_1.txt"}

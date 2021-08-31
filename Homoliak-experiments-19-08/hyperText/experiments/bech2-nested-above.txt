@@ -1,0 +1,3 @@
+{"regex":"ALTER\\s.*FILE\\s+((AS|MEMBER|TO)\\s+)?(\\x27[^\\x27]{512}|\\x22[^\\x22]{512})", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-nested-above_00_1.txt"}
+{"regex":"CREATE\\s.*FILE\\s+((AS|MEMBER|TO)\\s+)?(\\x27[^\\x27]{512}|\\x22[^\\x22]{512})", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-nested-above_01_1.txt"}
+{"regex":"^((\\/\\d{1,4}){1,3})?/\\?[a-f0-9]{50,1000}$", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-nested-above_02_1.txt"}

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"[0-9a-f]+"""", """"/api/v1/users/([0-9a-f]{24})/submissions"""", """"[0-9a-f]{24}";./attacks-gadget/stackoverflow-between_37_3.txt;0.0;0.06;0.2;1.6;TO;1.05;0.12;4.12;1.64;2.93;0.06;189.17;115.72;81.63;0;0;0;0;TO;0;0;0;0;0;0;0;0;0;50.0

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"https://example.com/v1/AUTH_account/container/object\?temp_url_sig=[a-f0-9]{40}&temp_url_expires=1003600";./attacks-gadget/uniq-between_9142_4.txt;0.0;0.59;15.49;1.81;18.38;2.9;6.18;9.56;TO;TO;14.12;18.49;6.28;10.34;0;0;0;0;0;0;0;0;TO;TO;0;0;0;0;50.0

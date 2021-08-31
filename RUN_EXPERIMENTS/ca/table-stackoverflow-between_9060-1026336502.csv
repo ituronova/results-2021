@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^\+\d{3} \(\d{2,3}\) \d{5,16}$";./attacks-gadget/stackoverflow-between_9080_2.txt;0.3;0.6;9.33;1.8;18.12;5.02;7.81;9.94;TO;TO;15.49;18.39;5.57;11.04;0;0;0;0;0;0;0;0;TO;TO;0;0;0;0;50.0

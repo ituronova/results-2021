@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+".*[pP][aA][sS][sS] [^\x20]{100}";./attacks-gadget/snort-between_02_6.txt;3.78;0.06;0.17;1.69;TO;1.04;0.13;4.32;2.01;1.71;0.8;TO;TO;80.31;0;0;0;0;TO;0;0;0;147;147;147;TO;TO;0;49.05047

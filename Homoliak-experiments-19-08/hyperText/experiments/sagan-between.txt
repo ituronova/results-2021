@@ -1,0 +1,8 @@
+{"regex":"User-Agent\\x3a \\{[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}\\}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-between_51_1.txt"}
+{"regex":"S-1-5-21-\\d{5,15}\\-\\d{5,15}\\-\\d{5,15}-1101 ", "file":"../runGen5/hyperTexts/hyper-03-08/sagan-between_00_1.txt"}
+{"regex":"S-1-5-21-\\d{5,15}\\-\\d{5,15}\\-\\d{5,15}-500 ", "file":"../runGen5/hyperTexts/hyper-03-08/sagan-between_01_1.txt"}
+{"regex":"S-1-5-21-\\d{5,15}\\-\\d{5,15}\\-\\d{5,15}-512 ", "file":"../runGen5/hyperTexts/hyper-03-08/sagan-between_02_1.txt"}
+{"regex":"S-1-5-21-\\d{5,15}\\-\\d{5,15}\\-\\d{5,15}-518 ", "file":"../runGen5/hyperTexts/hyper-03-08/sagan-between_03_1.txt"}
+{"regex":"S-1-5-21-\\d{5,15}\\-\\d{5,15}\\-\\d{5,15}-519 ", "file":"../runGen5/hyperTexts/hyper-03-08/sagan-between_04_1.txt"}
+{"regex":"S-1-5-21-\\d{5,15}\\-\\d{5,15}\\-\\d{5,15}-520 ", "file":"../runGen5/hyperTexts/hyper-03-08/sagan-between_05_1.txt"}
+{"regex":"S-1-5-21-\\d{5,15}\\-\\d{5,15}\\-\\d{5,15}-556 ", "file":"../runGen5/hyperTexts/hyper-03-08/sagan-between_06_1.txt"}

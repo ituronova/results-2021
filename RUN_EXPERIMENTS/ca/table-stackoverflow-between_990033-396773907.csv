@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+^[a-z0-9_-]{40,255}$;./attacks-gadget/stackoverflow-between_9069_3.txt;13.18;0.59;11.58;1.77;27.36;2.43;7.52;10.12;183.24;TO;15.47;19.74;5.83;11.68;0;0;0;0;0;0;0;0;0;TO;0;0;0;0;50.0

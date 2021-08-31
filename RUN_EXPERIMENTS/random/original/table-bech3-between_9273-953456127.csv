@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\x2FCSuserCGI\x2Eexe\x3F.*Logout.[^&]{96}";./attacks-gadget/bech3-between_9129_1.txt;0.0;0.51;0.32;1.68;4.48;2.27;0.36;3.74;9.9;11.75;1.01;0.64;1.7;2.42;0;383401;0;0;0;0;0;0;383401;383418;383418;383401;0;0;49.526542

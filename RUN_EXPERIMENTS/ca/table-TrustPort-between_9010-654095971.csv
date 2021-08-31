@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\<Go undercover with a .500 gift voucher for each store[^\x20]{0,60}\x20";./attacks-gadget/TrustPort-between_9014_1.txt;0.21;0.34;0.35;1.46;1.65;1.43;0.0;1.71;8.26;16.24;0.51;0.58;1.16;1.04;0;274500;274500;274500;274500;274500;ERR;274500;274500;274500;274500;274500;274500;274500;49.84005

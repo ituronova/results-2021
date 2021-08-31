@@ -1,0 +1,15 @@
+{"regex":".*A.*(JSNRBHG|JSNRHM|TOM).*([^K-U]QUM|IKSSUPRM)F[^CD][^CE]{7,128}C.*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_00_1.txt"}
+{"regex":".*A.*(JSNRCHG|JSNRHM|TOM).*([^K-U]QUM|IKSSUPRM)F[^DE][^A-D]{7,128}D.*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_01_1.txt"}
+{"regex":".*A.*B[C-F]{43,53}CEF[^C-F].*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_02_1.txt"}
+{"regex":".*A.*[BD]C{43,43}D[^E].*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_03_1.txt"}
+{"regex":".*A.*[BD]C{86,86}DD.*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_04_1.txt"}
+{"regex":".*ADCC[B-D]{200,200}.*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_05_1.txt"}
+{"regex":".*A[^AB]{0,400}[CE]D{86,86}EE.*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_06_1.txt"}
+{"regex":".*A[^AB]{0,400}[CG][EF]{43,43}G[^DF].*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_07_1.txt"}
+{"regex":".*A[^AB]{0,800}C[D-G]{43,53}DFG[^D-H].*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_08_1.txt"}
+{"regex":".*BA{0,50}(EC|EE)A{0,10}[DE]{86,86}FF.*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_09_1.txt"}
+{"regex":".*BA{0,50}(FD|FF)A{0,10}[E-G]{43,43}H[^CG].*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_10_1.txt"}
+{"regex":".*DOHILMPKGKV[^F]+(JKISVRTMQPGKVA*EA*B[CH-K]{48,}|UHNMJHTMQPGKVA*EA*B[CH-K]{48,})[^F]+F.*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_11_1.txt"}
+{"regex":".*GDIIJFHE[AB]+[C-J]{52,52}([AB].*|B+.*)", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_12_1.txt"}
+{"regex":".*IHEGFJDCA[BD-J]{60,60}A.*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_13_1.txt"}
+{"regex":".*[AC]B{70,70}CC.*", "file":"../runGen5/hyperTexts/hyper-03-08/MSInternal-between_14_1.txt"}

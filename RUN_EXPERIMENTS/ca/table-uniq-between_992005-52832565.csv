@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"nifi-api/flow/connections/[a-f0-9\-]{36}";./attacks-gadget/uniq-between_9088_2.txt;0.0;0.55;15.43;1.76;17.82;2.77;7.74;9.52;TO;TO;15.91;17.36;5.98;10.72;0;0;0;0;0;0;0;0;TO;TO;0;0;0;0;50.0

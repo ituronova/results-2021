@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^[0-9a-zA-Z_\-.]{1,256}\.domain\.com";./attacks-gadget/stackoverflow-between_9087_4.txt;ERR;0.21;0.48;1.72;6.16;2.63;0.15;7.45;7.32;19.16;0.29;1.37;2.44;1.27;ERR;0;0;0;0;0;0;0;0;0;0;0;0;0;49.75724

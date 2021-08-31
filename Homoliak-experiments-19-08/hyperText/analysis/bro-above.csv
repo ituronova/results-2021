@@ -1,0 +1,10 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+^([pP][aA][cC][kK][aA][gG][eE]|[pP][rR][oO][cC][eE][dD][uU][rR][eE])_[pP][rR][eE][fF][iI][xX][\x20]*=>[\x20]*('[^']{1000,}|""[^""]{1000,});../runGen4Rest/hyper-03-08/bro-above_00_1.txt;2.73;0.05;0.02;0.35;0.13;0.44;0.01;0.22;0.12;0.01;0.02;0.16;0.22;0.66;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10.5
+^.* BODY\.PEEK\[[^\]]{1024};../runGen4Rest/hyper-03-08/bro-above_01_1.txt;0.02;0.6;ERR;0.39;0.4;0.41;0.08;0.26;0.15;0.04;0.01;0.04;0.28;0.65;0;1;ERR;1;1;1;1;ERR;1;1;1;1;1;1;10.5
+^.* BODY\[[^\]]{1024};../runGen4Rest/hyper-03-08/bro-above_02_1.txt;0.0;0.62;ERR;0.55;0.39;0.38;0.09;0.3;0.15;0.04;0.02;0.05;0.29;0.68;0;1;ERR;1;1;1;1;ERR;1;1;1;1;1;1;10.5
+^.* CREATE [^\x20]{1024};../runGen4Rest/hyper-03-08/bro-above_03_1.txt;23.36;0.24;ERR;0.52;1.2;0.58;0.03;0.27;0.28;0.06;0.14;0.27;0.41;0.72;1;0;ERR;0;0;0;0;ERR;0;0;0;0;0;0;10.5
+^.* [fF][iI][nN][dD] [^\x20]{1024};../runGen4Rest/hyper-03-08/bro-above_04_1.txt;30.74;0.32;ERR;0.53;1.77;0.62;0.04;0.27;0.31;0.06;0.23;0.34;0.5;0.73;1;0;ERR;0;0;0;0;ERR;0;0;0;0;0;0;10.5
+^.* [rR][eE][nN][aA][mM][eE] [^\x20]{1024};../runGen4Rest/hyper-03-08/bro-above_05_1.txt;23.33;0.25;ERR;0.53;1.72;0.54;0.03;0.27;0.28;0.05;0.2;0.34;0.48;0.72;1;0;ERR;0;0;0;0;ERR;0;0;0;0;0;0;10.5
+^[\x20\x20\x20][cC][rR][eE][aA][tT][eE][\x20\x20\x20][^\n]{1024};../runGen4Rest/hyper-03-08/bro-above_06_1.txt;0.9;0.02;ERR;0.36;0.14;0.44;0.01;0.26;0.08;0.01;0.02;0.04;0.21;0.66;0;1;ERR;1;1;1;1;ERR;1;1;1;1;1;1;10.5
+^[\x20\x20\x20][pP][aA][rR][tT][iI][aA][lL].*[bB][oO][dD][yY]\.[pP][eE][eE][kK]\[[^\]]{1024};../runGen4Rest/hyper-03-08/bro-above_07_1.txt;0.01;0.38;ERR;0.41;0.4;0.5;0.07;0.27;0.19;0.01;0.02;0.03;0.28;0.63;0;1;ERR;1;1;1;1;ERR;1;1;1;1;1;1;10.5
+^[\x20\x20\x20][pP][aA][rR][tT][iI][aA][lL].*[bB][oO][dD][yY]\[[^\]]{1024};../runGen4Rest/hyper-03-08/bro-above_08_1.txt;0.01;0.52;ERR;0.42;0.4;0.46;0.07;0.26;0.18;0.03;0.02;0.04;0.29;0.65;0;1;ERR;1;1;1;1;ERR;1;1;1;1;1;1;10.5

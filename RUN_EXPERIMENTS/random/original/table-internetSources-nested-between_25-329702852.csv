@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^([\w\d\-\.]+)@{1}(([\w\d\-]{1,67})|([\w\d\-]+\.[\w\d\-]{1,67}))\.(([a-zA-Z\d]{2,4})(\.[a-zA-Z\d]{2})?)$";./attacks-gadget/internetSources-nested-between_23.txt;0.01;0.32;8.05;7.04;25.96;4.64;0.02;12.03;TO;TO;8.28;10.03;6.07;6.32;0;0;0;0;0;0;ERR;0;TO;TO;0;0;0;0;50.0

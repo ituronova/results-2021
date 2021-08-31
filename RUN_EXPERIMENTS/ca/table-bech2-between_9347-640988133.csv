@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^\/201\d{5,8}\/\d{6,11}\/\d{5,10}\.jsp$";./attacks-gadget/bech2-between_9356_1.txt;0.06;0.14;1.02;1.85;5.74;2.48;0.0;2.47;32.68;66.34;0.82;1.41;4.79;1.56;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;49.9983

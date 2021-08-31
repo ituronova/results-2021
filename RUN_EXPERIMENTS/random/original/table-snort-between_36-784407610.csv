@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^\s*SAML\s+[^\n]{246}";./attacks-gadget/snort-between-RN2_24_1.txt;147.23;1.1;TO;40.67;4.24;2.79;72.09;56.6;73.08;7.29;0.94;0.55;13.32;23.72;0;122298;TO;0;0;0;0;0;0;122298;122298;0;0;0;49.579497

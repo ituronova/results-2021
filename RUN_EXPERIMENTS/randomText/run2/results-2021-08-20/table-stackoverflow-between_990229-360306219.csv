@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"ev\d{7}\/\d{4}(-\d)?|(ch|co|ev|nm|tt)\d{7}/"", ""/ev\d{7}\/\d{4}(-\d)?|(ch|co|ev|nm|tt)\d{7}/.test(""tt2964642"")";../runGen4/random/random50000.txt;0.06;0.08;0.23;0.95;5.0;1.32;0.0;16.12;5.06;3.17;7.14;3.88;7.38;0.92;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;52.4288

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^X?PAT\s+[^\n]{1024}";./attacks-gadget/snort-above_01_5.txt;TO;3.59;ERR;86.82;4.29;1.86;TO;0.25;156.35;0.98;0.88;0.5;34.49;60.38;TO;22110;ERR;22110;22110;22110;TO;ERR;22110;22110;22110;22110;22110;22110;49.29991

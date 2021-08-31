@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"grep -E -o ""EST .{0,33}"" file1| cut -d """" -f2 > outputfile";./attacks-gadget/stackoverflow-between_9108_1.txt;15.02;0.42;0.66;1.94;8.79;2.37;0.51;6.11;13.57;21.94;2.42;2.0;2.02;1.35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.99365

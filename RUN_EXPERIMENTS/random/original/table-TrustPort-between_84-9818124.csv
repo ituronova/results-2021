@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"<body>\s*<h1><a \x20?href=""http://[-.a-z0-9]{1,40}\.[a-z]{2,4}/[^""]{0,150}"">";./attacks-gadget/TrustPort-between_9149_1.txt;0.18;0.29;0.3;1.61;3.58;2.27;0.35;3.05;9.98;7.4;0.8;0.57;4.7;2.28;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.869612

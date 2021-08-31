@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\x3C\S+\s+[^\x3E]*(\x22[^\x22]{500}|\x27[^\x27]{500}|[^\x3E\x20\x20]{500})";../runGen4/random/random50000.txt;0.32;0.69;64.88;TO;28.34;2.38;17.65;34.51;25.11;3.6;13.38;4.74;9.07;10.31;0;305;305;TO;305;305;305;305;307;307;307;307;305;305;52.4288

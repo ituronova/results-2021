@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\s]{1,250}"", ""Up to 250 letters (upper and lower case), numbers, #, , ?, -, ', ., :, comma, !, ";../runGen4/random/random50000.txt;0.03;0.07;0.2;0.98;4.02;1.43;0.04;5.47;3.2;3.41;0.08;0.72;0.99;0.98;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

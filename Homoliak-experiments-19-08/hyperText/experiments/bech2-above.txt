@@ -1,0 +1,24 @@
+{"regex":"A{1000}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_00_1.txt"}
+{"regex":"TIME_ZONE\\s*=\\s*((\\x27[^\\x27]{1000,})|(\\x22[^\\x22]{1000,}))", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_01_1.txt"}
+{"regex":"\\(((\\s*(\\x27[^\\x27]*'|\\x22[^\\x22]+\\x22)\\s*,)\\s*((\\x27[^\\x27]{1000})|(\\x22[^\\x22]{1000})))", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_02_1.txt"}
+{"regex":"\\((\\s*((\\x27[^\\x27]{1000})|(\\x22[^\\x22]{1000}))|\\s*(\\x27[^\\x27]*'|\\x22[^\\x22]+\\x22)\\s*,\\s*(true|false)\\s*,\\s*((\\x27[^\\x27]{1000})|(\\x22[^\\x22]{1000})))", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_03_1.txt"}
+{"regex":"\\(\\s*((\\x27[^\\x27]{1000})|(\\x22[^\\x22]{1000}))", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_04_1.txt"}
+{"regex":"\\(\\s*((\\x27[^\\x27]{1000})|(\\x22[^\\x22]{1000}))|((\\s*(\\x27[^\\x27]*'|\\x22[^\\x22]+\\x22)\\s*,)\\s*((\\x27[^\\x27]{1000})|(\\x22[^\\x22 ]{1000})))", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_05_1.txt"}
+{"regex":"\\(\\s*((\\x27[^\\x27]{1000})|(\\x22[^\\x22]{1000}))|((\\s*(\\x27[^\\x27]*'|\\x22[^\\x22]+\\x22)\\s*,)\\s*((\\x27[^\\x27]{1000})|(\\x22[^\\x22]{1000})))", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_06_1.txt"}
+{"regex":"\\(\\s*(\\x27[^\\x27]*'|\\x22[^\\x22]+\\x22)\\s*,\\s*(true|false)\\s*,\\s*((\\x27[^\\x27]{1000})|(\\x22[^\\x22]{1000}))", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_07_1.txt"}
+{"regex":"\\(\\s*(\\x27[^\\x27]{1024,}|\\x22[^\\x22]{1024,})", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_08_1.txt"}
+{"regex":"\\(\\s*(\\x27[^\\x27]{1075,}|\\x22[^\\x22]{1075,})", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_09_1.txt"}
+{"regex":"\\(\\s*TIMESTAMP\\s*(\\s*(\\x27[^\\x27]+'|\\x22[^\\x22]+\\x22)\\s*,)\\s*((\\x27[^\\x27]{1000})|(\\x22[^\\x22]{1000}))", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_10_1.txt"}
+{"regex":"\\x3Clocation\\x3D.+smb\\x3A\\x2F\\x2F.{1000}.+\\x3C\\x2Flocation\\x3E", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_11_1.txt"}
+{"regex":"^[A-Za-z0-9-\\/\\+=]{5000,}$", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_12_1.txt"}
+{"regex":"^[\\x20-\\x7f]{1,5}[^\\x20-\\x7f]{1,5}.{5000,}$", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_13_1.txt"}
+{"regex":"^[^\\r\\x20]+#[^\\x22\\r\\x20]{2049}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_14_1.txt"}
+{"regex":"^[a-f0-9]{100,2000}$", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_16_1.txt"}
+{"regex":"^[a-z0-9+/]{4000,}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_17_1.txt"}
+{"regex":"^[a-z0-9\\(_~-]{1000,}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_18_1.txt"}
+{"regex":"^[a-zA-Z0-9+/]{1000,}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_19_1.txt"}
+{"regex":"^\\s*\\([^)]{2048}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_20_1.txt"}
+{"regex":"^a\\x3D[^\\n]{1000,}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_21_1.txt"}
+{"regex":"^dat=[a-z0-9_/+-]{1000,}", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_22_1.txt"}
+{"regex":"^name=[a-f0-9]{2,5000}$", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_23_1.txt"}
+{"regex":"^[^\\x20\\x20\\x20]{2000}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_09_1.txt"}

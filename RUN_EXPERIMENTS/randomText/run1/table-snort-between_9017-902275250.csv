@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\x2FCSuserCGI\x2Eexe\x3FLogout\x2B[^\s]{96}";../runGen4/random/random50000.txt;0.0;0.04;0.07;0.66;0.52;1.06;0.03;0.4;1.51;3.05;0.08;0.13;0.57;0.82;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

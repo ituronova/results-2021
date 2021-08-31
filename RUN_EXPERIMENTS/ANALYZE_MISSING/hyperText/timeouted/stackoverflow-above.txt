@@ -1,0 +1,24 @@
+" {10000}"
+"([a-zA-Z0-9]{0,4000})"
+(ABCHEHG)[HGE]{5,1230}(EEJOPK)[DM]{5}
+(ABCHEHG)[HGHE]{5,1230}(EEJOPK)[DM]{5}", "(ABCHEHG)[HGHE]{5,1230}(EEJOPK)[DM]{5}[ACF]{1,1000}(BBBA)[CU]{2,5}
+.split()", ""{{231111}}"
+.{0,4980}(\<\/div\>|\<\/p\>|\<\/section\>|\<\/blockquote\>|\<\/br\>|\.\s)
+.{10,4000}$
+.{30000}.{10000}", ".{40000}
+<.{1,10000}>
+<title>(.{1000,})</title>
+String.match", "{853269}", "String.prototype.match
+[999]", "{242424} from X [100] bulks, linked to {57575757} from Y for [500] units", "{12345}
+[\s\S]{0,500}", ".{0,500}
+\<![ \t\x20\t]*--[\S\s]{400,6000}--[ \t\x20\t]*\>
+\w[^\.!\?]{400,600}[\.!\?]", "{400,600}", ".", "\w", ".*", ".{400,600}", "[^\.!\?]", "?
+^([-a-zA-Z\/\-\&\\\?\!\,\.\'"\s0-9@:=_]{1,1000})$
+^.{10,4000}$
+^[a-z0-9\s_@/.-]{1,4095}$
+a{20001}", "texts = [os.urandom(20000) for x in range(20000)]", "0.013", "'a{%d}' % (len(input)+1)
+d.{40000}o.{40000}g.{40000}s
+jQuery('#ed_ru').val(jQuery('#ed_ru').val() + '{{'+id+'}} ')", "{{231111}}
+regex(".{40000}")", "regex_match("", regex(".{40000}"))
+s = {6} {56780} {Sample String}
+set promptInfo [oBOTANDROID2 launchVapiEiCmd getinfo]", "VAPIEI Cmd Rcvd: {state inservice} {type dmc} {description {BOTSP2,10.77.41.154,tcp(dmc)}} {lines 2} {calls 2} {streams 4} {{primary cm} 10.77.41.11} {{backup cm} } {status {}} {id dmc2} {userid } {{last error} {}} {{delay offer} false} {{Voice Mail client status} {inactive}} {{primary cti} {}} {{backup cti} {}} {{current cti} {}} {{preferred mode} {voip}} {{call type} {voip}} {{domain} {}} {{ixenabled} {no}} {{esrstvernego} {null}} {{ipv4address} {10.77.41.154}} {{ipv6address} {}} {{deploymentmodel} {on-premise}} {{login type} {uc-directory}} {centraluds {}} {{sip port} {42708}} {privacy disabled}

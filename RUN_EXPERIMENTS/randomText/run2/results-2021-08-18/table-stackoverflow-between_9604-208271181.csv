@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\.\d{3}"", ""\.\{3}"", ""'.*(\d{4}-\d{2}-\d{2}T\d{2}%3a\d{2}%3a\d{2}\.\d{3}).*'"", ""\d"", ""2017-02-22T01%3a02%3a07.181";../runGen4/random/random50000.txt;0.04;0.06;0.07;0.76;0.96;1.79;0.03;3.47;3.0;2.81;0.08;0.13;0.77;0.84;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

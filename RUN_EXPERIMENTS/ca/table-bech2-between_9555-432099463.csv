@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^Accept\x3a\x20[^\r\n]+\d\.\d.*[\x20-\x7e\r\n]{0,20}[^\x20-\x7e\r\n]{3,20}\r?\n?$";./attacks-gadget/bech2-between_9200_1.txt;0.02;0.24;0.78;1.81;44.24;2.34;0.35;16.49;48.84;52.81;17.26;11.65;11.3;3.37;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.071834

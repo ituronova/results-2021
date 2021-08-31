@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^Merge\s\w{40}\sinto\s\w{40}$";./attacks-gadget/uniq-between_9021_5.txt;0.0;0.58;9.11;2.25;17.61;4.75;0.02;9.88;TO;TO;15.12;17.88;5.78;11.56;0;0;0;0;0;0;ERR;0;TO;TO;0;0;0;0;50.0

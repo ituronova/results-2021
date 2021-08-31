@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\d{6}\s-\s\(\d{5}\)\s-\s\w{3}\s\d{4}-\d{3}-[^\.]+\.txt"", ""term + '\s-\s\(\d{5}\)\s-\s\w{3}\s\d{4}-\d{3}-[^\.]+\.txt'";../runGen4/random/random50000.txt;0.02;0.06;0.26;2.02;4.83;1.9;0.04;3.06;5.46;3.09;0.09;1.55;0.9;1.18;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"([0-9]{1,5}.{5,20}(dr|drive)(\.|\s|\,))"", ""(\d{1,5}\s[^\d].{5,20}(dr|drive)(\.|\s|\,))"", ""PO Box 156 430 S Wheeling Dr. Wheeling, IL 60090";../runGen4/random/random50000.txt;0.01;0.06;28.9;2.07;28.06;9.6;0.0;8.62;4.21;3.81;0.07;3.2;6.43;2.06;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;52.4288

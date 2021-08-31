@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"20130516-003-v5i32.exe"", ""\d{8}-\d{3}-v5i[6][4]\.exe"", ""20130516-003-v5i64.exe"", ""\d{8}-\d{3}-v5i[3][2]\.exe";../runGen4/random/random50000.txt;0.06;0.06;0.06;0.74;0.56;1.22;0.05;0.43;3.08;3.15;0.08;0.15;0.59;0.9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

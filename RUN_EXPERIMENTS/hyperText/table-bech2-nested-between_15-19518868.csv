@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\x2522deviceName\x2522\x253A\x2522[a-f0-9]{8}(-[a-f0-9]{4}){4}[a-f0-9]{8}\x2522";./attacks-gadget/bech2-nested-between_15_1.txt;0.03;0.07;0.14;1.14;0.7;ERR;0.1;0.3;0.18;0.04;0.17;0.12;0.62;0.74;0;0;0;0;0;ERR;0;0;0;0;0;0;0;0;41.20018

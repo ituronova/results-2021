@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^(\(\d{3}\)[ ]?\d{3}-\d{4})|(\d{3}\.\d{3}\.\d{4})|(\d{3}\-\d{3}\-\d{4})|[0-9]{10}$";./attacks-gadget/stackoverflow-between_9840_1.txt;0.13;0.25;1.58;2.48;41.74;6.79;0.79;18.06;130.47;112.79;7.85;5.64;3.89;2.98;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.284

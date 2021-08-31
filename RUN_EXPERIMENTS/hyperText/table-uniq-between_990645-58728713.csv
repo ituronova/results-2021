@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^([a-z\d][a-z\d-]{0,61}[a-z\d])\.tumblr\.com";./attacks-gadget/uniq-between_990427_1.txt;0.05;0.04;0.01;0.87;0.31;0.76;0.02;0.28;0.11;0.04;0.02;0.59;0.48;0.75;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41.200236

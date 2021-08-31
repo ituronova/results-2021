@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"(\s[A-Z]{3}\d\d|\d\d[A-Z]{3}\s)"", ""|"", ""\s[A-Z]{3}\d\d"", ""([A-Z]{3})\d{2}[A-Z]{3}\d{2}"", ""\d\d[A-Z]{3}\s";../runGen4/random/random50000.txt;0.02;0.06;0.26;1.48;8.18;1.24;0.12;7.95;5.6;3.32;7.82;3.18;4.01;1.06;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

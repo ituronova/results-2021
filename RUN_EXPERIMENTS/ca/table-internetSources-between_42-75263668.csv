@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+^L[a-zA-Z0-9]{26,33}$;./attacks-gadget/internetSources-between_82_1.txt;3.83;0.07;0.84;1.7;1.86;2.51;0.4;2.29;14.84;52.38;1.02;1.29;1.47;1.52;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.097853

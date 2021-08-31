@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^[^\r\n]*urn\x3adevice\x3a[^\r\n\x3a]{181}";../runGen4/random/random50000.txt;0.02;0.07;0.21;1.55;5.44;1.03;0.11;3.32;1.38;3.24;0.07;1.1;1.11;0.95;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

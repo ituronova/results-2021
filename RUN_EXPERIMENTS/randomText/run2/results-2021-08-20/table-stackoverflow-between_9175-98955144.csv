@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+".*"", ""\d{4}"", ""regex="".*(\d{{4}}) ([A-Za-z\u0022\u0022\u0022\u0022\u0022\u0022]{{3,24}}).*"", ""\D*";../runGen4/random/random50000.txt;0.0;ERR;ERR;1.88;TO;1.16;0.0;0.48;2.8;3.29;ERR;40.08;0.11;47.49;0;ERR;ERR;0;TO;0;ERR;ERR;0;0;ERR;0;;0;52.4288

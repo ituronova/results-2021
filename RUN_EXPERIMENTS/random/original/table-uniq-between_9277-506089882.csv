@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^https:\/\/example\.com\/authorize\?client_id=1234&nonce=[\w\d]{32}&response_type=code&scope=openid&state=[\w\d]{32}$";./attacks-gadget/uniq-between_47_2.txt;0.1;0.05;0.23;2.34;1.76;2.3;0.0;1.4;6.24;7.5;0.36;0.52;1.0;1.0;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;49.9961

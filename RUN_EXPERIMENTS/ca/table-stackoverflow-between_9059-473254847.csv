@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^[a-zA-z0-9-._,\s]{0,30}$";./attacks-gadget/stackoverflow-between_07_5.txt;ERR;2.44;11.75;1.83;36.51;3.52;7.57;18.72;TO;TO;32.23;30.96;7.72;11.16;ERR;50000001;50000000;0;50000000;0;50000000;50000000;TO;TO;50000000;50000000;50000000;50000000;50.0

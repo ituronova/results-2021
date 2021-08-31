@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\<The following information for your Apple ID [a-zA-Z0-9._-]{1,25}@[-.a-z0-9]{1,40}\.[a-z]{2,4} was updated on \d{2}/\d{2}/2017:$";../runGen4/random/random50000.txt;0.0;0.06;0.06;1.71;0.52;1.26;0.0;0.41;3.19;3.28;0.08;0.13;0.59;0.84;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;52.4288

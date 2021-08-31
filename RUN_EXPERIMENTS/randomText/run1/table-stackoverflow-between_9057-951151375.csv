@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"(Y{4}(([LCDH]Y)|Y))|(T{4}(([DM]T)|T))"", ""(.*Y{4}(([LCDH]Y)|Y).*)|(.*T{4}(([DM]T)|T).*)"", ""Y{4}[LCDH]?Y|T{4}[DM]?T";../runGen4/random/random50000.txt;0.16;0.08;0.2;1.71;TO;1.17;0.13;11.04;133.92;3.89;98.28;TO;169.98;71.92;0;0;0;0;TO;0;0;0;0;0;0;TO;0;0;52.4288

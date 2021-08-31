@@ -1,0 +1,12 @@
+" {10000}"
+.split()", ""{{231111}}"
+.{0,4980}(\<\/div\>|\<\/p\>|\<\/section\>|\<\/blockquote\>|\<\/br\>|\.\s)
+.{10,4000}$
+.{30000}.{10000}", ".{40000}
+<.{1,10000}>
+<title>(.{1000,})</title>
+[\s\S]{0,500}", ".{0,500}
+\w[^\.!\?]{400,600}[\.!\?]", "{400,600}", ".", "\w", ".*", ".{400,600}", "[^\.!\?]", "?
+a{20001}", "texts = [os.urandom(20000) for x in range(20000)]", "0.013", "'a{%d}' % (len(input)+1)
+d.{40000}o.{40000}g.{40000}s
+set promptInfo [oBOTANDROID2 launchVapiEiCmd getinfo]", "VAPIEI Cmd Rcvd: {state inservice} {type dmc} {description {BOTSP2,10.77.41.154,tcp(dmc)}} {lines 2} {calls 2} {streams 4} {{primary cm} 10.77.41.11} {{backup cm} } {status {}} {id dmc2} {userid } {{last error} {}} {{delay offer} false} {{Voice Mail client status} {inactive}} {{primary cti} {}} {{backup cti} {}} {{current cti} {}} {{preferred mode} {voip}} {{call type} {voip}} {{domain} {}} {{ixenabled} {no}} {{esrstvernego} {null}} {{ipv4address} {10.77.41.154}} {{ipv6address} {}} {{deploymentmodel} {on-premise}} {{login type} {uc-directory}} {centraluds {}} {{sip port} {42708}} {privacy disabled}

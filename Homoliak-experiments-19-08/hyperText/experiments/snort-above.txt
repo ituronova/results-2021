@@ -1,0 +1,28 @@
+{"regex":"TIME_ZONE\\s*=\\s*((\\x27[^\\x27]{1000,})|(\\x22[^\\x22]{1000,}))", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_01_1.txt"}
+{"regex":"\\(\\s*(\\x27[^\\x27]{1024,}|\\x22[^\\x22]{1024,})", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_08_1.txt"}
+{"regex":"\\(\\s*(\\x27[^\\x27]{1075,}|\\x22[^\\x22]{1075,})", "file":"../runGen5/hyperTexts/hyper-03-08/bech2-above_09_1.txt"}
+{"regex":"(0x[0-9a-f]+|0[0-8]+|[1-9]\\d*)\\s+\\S{157}|(0x[0-9a-f]+|0[0-8]+|[1-9]\\d*)\\s+\\S+\\s+\\S{125}|(0x[0-9a-f]+|0[0-8]+|[1-9]\\d*)\\s+\\S+\\s+\\S+\\s+\\S{1025}|(0x[ 0-9a-f]+|0[0-8]+|[1-9]\\d*)\\s+\\S+\\s+\\S+\\s+\\S+\\s+\\S{117}|(0x[0-9a-f]+|0[0-8]+|[1-9]\\d*)\\s+\\S+\\s+\\S+\\s+\\S+\\s+\\S+\\s+\\S{37}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-above_01_1.txt"}
+{"regex":"NUMTO(DS|YM)INTERVAL\\s*\\(\\s*\\d+\\s*,\\s*((\\x27[^\\x27]{1000,})|(\\x22[^\\x22]{1000,}))", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-above_10_1.txt"}
+{"regex":"\\(\\s*(\\x27[^\\x27]*\\x27|\\x22[^\\x22]+\\x22)\\s*,\\s*(\\x27[^\\x27]{1024,}|\\x22[^\\x22]{1024,})", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-above_25_1.txt"}
+{"regex":"\\(\\s*TIMESTAMP\\s*(\\s*(\\x27[^\\x27]+'|\\x22[^\\x22]+\\x22)\\s*,)\\s*((\\x27[^\\x27]{1000,})|(\\x22[^\\x22]{1000,}))", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-above_28_1.txt"}
+{"regex":"\\sCREATE\\s[^\\n]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-above_30_1.txt"}
+{"regex":"\\sPARTIAL.*BODY\\.PEEK\\[[^\\]]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-above_31_1.txt"}
+{"regex":"\\sPARTIAL.*BODY\\[[^\\]]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-above_32_1.txt"}
+{"regex":"^CONNECT\\s[^\\s]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/bech3-above_46_1.txt"}
+{"regex":"\\x20WebID\\x20IISWebAgentIF.dll[^\\n\\x20\\x20]*\\x20Redirect\\x20url=[^\\n\\x20\\x20]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/home-brewed-above_01_1.txt"}
+{"regex":".* [rR][eE][nN][aA][mM][eE] [^\\x20]{1024}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_75_1.txt"}
+{"regex":"<EMBED(\\s+|\\s+[^>]*\\s+)src\\s*=\\s*(\\x22[^\\x22]{2082,}\\x22|\\x27[^\\x27]{2082,}\\x27|[^\\r\\n\\s]{2082,})", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_76_1.txt"}
+{"regex":".* BODY\\.PEEK\\[[^\\]]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_01_1.txt"}
+{"regex":".* BODY\\[[^\\]]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_02_1.txt"}
+{"regex":".* CREATE [^\\x20]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_03_1.txt"}
+{"regex":".* [fF][iI][nN][dD] [^\\x20]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_04_1.txt"}
+{"regex":"SSH-0*([2-9]\\d*|1\\d+)\\.[^-]*-[^\\n]*\\n\\x20\\x20.{3}\\x20.{1000}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_08_1.txt"}
+{"regex":"USING\\s*((\\x27[^\\x27]{1000,})|(\\x22[^\\x22]{1000,}))", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_10_1.txt"}
+{"regex":"\\/OvCgi\\/[^\\.]*\\.exe[^\\x20]{2000,}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_15_1.txt"}
+{"regex":"\\x20nds[^\\r\\n]{1000}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_20_1.txt"}
+{"regex":"^LoadTestPassword\\x20[^\\r\\n]{1024,}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_22_1.txt"}
+{"regex":"^SEARCH\\s+[^\\n]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_23_1.txt"}
+{"regex":"^X?PAT\\s+[^\\n]{1024}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_24_1.txt"}
+{"regex":"^\\s*MAIL\\s+[^\\s\\x20][^\\n]{1006,}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_25_1.txt"}
+{"regex":"^\\s*URL\\s*=\\s*mhtml\\x20\\x20\\x20[A-Z\\x20]{2,31}\\x20[^\\r\\n]{1253,}", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_26_1.txt"}
+{"regex":"href\\s*=\\s*(\\x20mhtml\\x20\\x20\\x20[A-Z\\x20]{2,31}\\x20[^\\x20]{1253,}|\\x20mhtml\\x20\\x20\\x20[A-Z\\x20]{2,31}\\x20[^\\x20]{1253,}|mhtml\\x20\\x20\\x20[A-Z\\x20]{2,31}\\x20[^\\x20\\r\\x20\\x20]{1253,})", "file":"../runGen5/hyperTexts/hyper-03-08/snort-above_27_1.txt"}

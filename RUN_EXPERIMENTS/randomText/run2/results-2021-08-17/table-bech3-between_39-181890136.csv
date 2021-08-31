@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"<BaseSet[^>]*ScrIDWordAddr\s*=[\x22\x27][^\x22\x27]{64}";../runGen4/random/random50000.txt;0.02;0.06;0.06;0.67;0.55;1.09;0.03;0.39;1.62;2.56;0.07;0.15;0.62;0.86;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

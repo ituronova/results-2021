@@ -1,0 +1,2 @@
+ALTER\s.*FILE\s+((AS|MEMBER|TO)\s+)?(\x27[^\x27]{512}|\x22[^\x22]{512})
+CREATE\s.*FILE\s+((AS|MEMBER|TO)\s+)?(\x27[^\x27]{512}|\x22[^\x22]{512})

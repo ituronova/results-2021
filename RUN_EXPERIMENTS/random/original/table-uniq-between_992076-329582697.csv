@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"http://cdn\w*\.yourfilehost\.com/unit1/flash8/\d+/[0-9A-Za-z]{32}\.flv";./attacks-gadget/uniq-between_9492_1.txt;0.01;0.05;0.37;2.26;2.0;2.19;0.26;1.75;7.3;13.34;0.23;0.34;2.98;1.16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.271625

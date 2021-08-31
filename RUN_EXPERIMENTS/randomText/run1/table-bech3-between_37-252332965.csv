@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"<BaseSet[^>]*EnterTime\s*=[\x22\x27][^\x22\x27]{520}";../runGen4/random/random50000.txt;0.14;0.06;0.06;0.67;0.51;1.09;0.04;0.41;1.79;3.04;0.06;0.11;0.62;0.82;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52.4288

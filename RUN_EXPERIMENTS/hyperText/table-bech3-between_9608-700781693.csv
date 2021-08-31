@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"propfind xmlns\x3A[^\x3D]*\x3d\x22[^\x22]{512}";./attacks-gadget/bech3-between_9615_1.txt;0.14;0.95;0.14;1.32;1.59;2.21;0.09;0.28;0.99;0.11;0.93;0.32;0.83;1.15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;42.0

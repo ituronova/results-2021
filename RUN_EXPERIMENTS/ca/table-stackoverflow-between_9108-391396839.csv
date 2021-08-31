@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"(Password@(\d{2,6}))|(Pa\$\$w0rd@(\d{2,6}))|(Password#(\d{2,6}))|(Pa\$\$w0rd#(\d{2,6}))|(Password_(\d{2,6}))|(Pa\$\$w0rd_(\d{2,6})).$";./attacks-gadget/stackoverflow-between_9051_1.txt;0.11;0.18;1.64;2.13;8.6;1.86;1.12;18.12;95.93;90.71;5.36;4.82;2.42;1.75;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48.72

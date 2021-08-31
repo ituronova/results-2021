@@ -1,0 +1,6 @@
+^.* BODY\.PEEK\[[^\]]{1024}
+^.* CREATE [^\x20]{1024}
+^.* [fF][iI][nN][dD] [^\x20]{1024}
+^.* [rR][eE][nN][aA][mM][eE] [^\x20]{1024}
+^[\x20\x20\x20][pP][aA][rR][tT][iI][aA][lL].*[bB][oO][dD][yY]\.[pP][eE][eE][kK]\[[^\]]{1024}
+^[\x20\x20\x20][pP][aA][rR][tT][iI][aA][lL].*[bB][oO][dD][yY]\[[^\]]{1024}

@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"Content-Type\x3A\s+audio\/(x-wav|mpeg|x-midi).*filename=[\x22\x27]?.{1,221}\.(vbs|exe|scr|pif|bat)";./attacks-gadget/bech3-between_74_1.txt;0.09;0.14;0.17;1.73;7.18;2.31;0.0;2.94;10.86;6.81;0.29;0.7;1.45;2.5;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;49.917384

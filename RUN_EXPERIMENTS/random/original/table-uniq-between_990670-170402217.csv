@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"url\(""fonts\/myfont\.woff\?([0-9a-f]{32})""\)";./attacks-gadget/uniq-between_9225_2.txt;0.21;0.06;0.5;1.65;2.55;1.85;0.0;1.92;9.82;26.54;0.74;0.84;0.96;1.22;0;0;0;0;0;0;ERR;0;0;0;0;0;0;0;49.99755

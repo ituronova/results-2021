@@ -1,0 +1,13 @@
+{"regex":"a{1,2147483647}", "file":"../runGen5/hyperTexts/hyper-03-08/missing_9759_1.txt"}
+{"regex":"a{1,111111111111111111111111111111111111111111111}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9690_1.txt"}
+{"regex":"a{1,21474836471}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9691_1.txt"}
+{"regex":"a{1,2147483648}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9692_1.txt"}
+{"regex":"a{1,999999999999999999999999999999999999999999999}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9693_1.txt"}
+{"regex":"a{111111111111111111111111111111111111111111111}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9694_1.txt"}
+{"regex":"a{2147483647,2147483647}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9695_1.txt"}
+{"regex":"a{21474836471,21474836471}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9696_1.txt"}
+{"regex":"a{21474836471}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9697_1.txt"}
+{"regex":"a{2147483647}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9698_1.txt"}
+{"regex":"a{2147483648,2147483648}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9699_1.txt"}
+{"regex":"a{2147483648}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9700_1.txt"}
+{"regex":"a{999999999999999999999999999999999999999999999}", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9701_1.txt"}

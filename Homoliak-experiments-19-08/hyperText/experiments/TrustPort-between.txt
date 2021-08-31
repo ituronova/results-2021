@@ -1,0 +1,389 @@
+{"regex":"\\x20.{0,30}\\<credit note.{0,30}\\<is attached.{0,30}\\<open.{0,30}\\<Adobe Reader. If you do not have an Adobe Reader.{0,40}\\<download\\sit: http://get.adobe.com/reader/\\x20{2}", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_9025_1.txt"}
+{"regex":"\\x20<BODY>.{5,80}<br>.{5,80} <a href=\"mailto:[a-z0-9._-]{1,30}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">.{2,50}</a>.{0,20}<br>.{5,80}<br>.{5,80}</BODY>", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_9027_1.txt"}
+{"regex":"\\x20<BODY><style>.{250,}<\\/style>.{0,2}<center>.{0,2}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\"><img .{50,100}><\\/a><br>.{0,2}<style>.{150,}<\\/style><\\/BODY>", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_9028_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,20}>[\\x20\\x20]{1,2}<DIV.{5,60}<A[ \\x20\\x20]{1,2}href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">[^<]{5,40}<\\/A>.{5,40}<DIV.{5,100}<DIV.{1,25}<A href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/\"><IMG .{50,150}<\\/A><\\/DIV><\\/BODY>", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_9031_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,25}>.{0,6}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20?\">.{5,80}<br><br>.{0,6}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20?\">.{5,180}<br><br>.{0,10}.{5,180}<br>.{5,180}<\\/BODY>", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_9032_1.txt"}
+{"regex":"\\x20<\\/HEAD><BODY[^>]{0,20}>[\\x20\\x20]{1,2}<p>.{250,}<\\/p>[\\x20\\x20]{1,2}<p>.{200,}<br \\/>[\\x20\\x20]{1,2}<br \\/>.{20,150}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/\">.{50,180}<\\/a>.{2,30}<\\/p>[\\x20\\x20]{1,2}<\\/BODY>", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_9033_1.txt"}
+{"regex":"\\x20<body>.{0,2}<style>.{2,120}<center>.{0,2}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\"><img [^>]{5,50}><\\/a><br>.{0,2}<style>.{2,120}<\\/center>.{0,2}<\\/body>", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_9034_1.txt"}
+{"regex":"\\x20<body>.{2,20} [a-z0-9._-]{1,30}@[-.a-z0-9]{1,40}\\.[a-z]{2,4} {0,5}<br>.{2,30}<style>[^<]{2,100}<\\/style>.{2,20}<br>.{3,20}<br>.{3,60}<\\/style>.{0,2}<\\/body>", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_9035_1.txt"}
+{"regex":"\\x20<body>[\\x20\\x20]{1,2}<table.{20,80}<tr>.{0,10}<td>.{20,150}<br \\/>.{20,100}<br \\/>.{0,15}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{1,40}\">.{1,60}<\\/a><br \\/>.{20,100}<br \\/>.{100,}<\\/td>[\\x20\\x20 ]{1,5}<\\/tr>[\\x20\\x20]{1,2}<\\/table>[\\x20\\x20]{1,2}<\\/body>", "file":"../runGen5/hyperTexts/missing-hyper2/missing-20-08_9036_1.txt"}
+{"regex":"<body><table[^>]{0,80}><tr.{50,100}<\\/tr><tr.{50,100}<\\/tr><tr.{5,30}<hr[^>]{0,20}><a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">.{3,40}<\\/a><hr[^>]{0,20}>.{0,10}<\\/tr><tr.{50,100}<\\/tr><\\/table><\\/body>", "file":"../runGen5/hyperTexts/hyper-26-08/missing-20-08_9023_1.txt"}
+{"regex":"\\x20<BODY>.{2,40}<br><br>.{2,60}<br>.{2,120}<br>.{2,25}<br>.{2,60}<br><br>.{2,80} <a href=\"mailto:[a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\"><b>[a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}<\\/b><\\/a><\\/BODY>", "file":"../runGen5/hyperTexts/hyper-26-08/missing-20-08_9026_1.txt"}
+{"regex":"\\x20<BODY><table>.{0,2}<tr><td><a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/\">.{0,2}<img [^>]{50,150}><\\/a><br>.{0,2}<br><a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/\">.{20,150}<\\/table>.{0,2}<br><br><br>.{30,250}<br>.{100,}<\\/BODY>", "file":"../runGen5/hyperTexts/hyper-26-08/missing-20-08_9029_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,20}>.{1,2}<DIV .{100,}<\\/DIV>.{1,2}<DIV .{30,120}<\\/DIV>.{1,2}<DIV .{50,150}<\\/DIV><BR>.{1,2}<DIV .{100,}<\\/DIV>.{1,2}<DIV .{30,120}<\\/DIV>.{1,2}<DIV .{20,60}<A .{0,2}href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">[^<]{5,50}<\\/A>.{3,30}<\\/DIV><\\/BODY>", "file":"../runGen5/hyperTexts/hyper-26-08/missing-20-08_9030_1.txt"}
+{"regex":"^ {20,50}\\x20$", "file":"../runGen5/hyperTexts/missing-hyper/missingHyper_9292_1.txt"}
+{"regex":".{0,200}ssforevercool.com.{1,200}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_00_1.txt"}
+{"regex":"<!DOCTYPE HTML PUBLIC \"[^\"]{10,60}\">\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_01_1.txt"}
+{"regex":"<(tr)>\\s{0,10}<(td)[^>]{0,120}><br/>\\s{0,10}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_02_1.txt"}
+{"regex":"<.{0,10}[^aeiouy]{6}.{0,10}@", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_03_1.txt"}
+{"regex":"</table>\\s{100,}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_04_1.txt"}
+{"regex":"<[0-9a-f]{14}.[0-9a-f]{11}@web3.appco.cz>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_05_1.txt"}
+{"regex":"<[A-Z0-9.]{1,35}@[a-z0-9.]{2,35}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_06_1.txt"}
+{"regex":"<[a-z0-9._-]{1,25}@PayPal\\.com>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_07_1.txt"}
+{"regex":"<[a-z0-9._-]{1,25}@bankwest\\.com\\.au>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_08_1.txt"}
+{"regex":"<[a-z0-9._-]{1,25}@bc-mchz\\.cz>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_09_1.txt"}
+{"regex":"<[a-z0-9._-]{1,25}@bounce.linkedin\\.com>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_10_1.txt"}
+{"regex":"<[a-z0-9._-]{1,25}@cezenergoservis.cz>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_11_1.txt"}
+{"regex":"<[a-z0-9._-]{1,25}@dpmcb\\.cz>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_12_1.txt"}
+{"regex":"<[a-z0-9._-]{1,25}@linkedin\\.com>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_13_1.txt"}
+{"regex":"<[a-z0-9._-]{1,30}@google\\.com>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_14_1.txt"}
+{"regex":"<[a-z0-9._-]{1,35}@[-.a-z0-9]{0,20}intuit\\.com>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_15_1.txt"}
+{"regex":"<[a-z0-9._-]{1,35}@rambler.ru>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_16_1.txt"}
+{"regex":"<[a-zA-Z0-9._-]{1,25}@uradprace.cz>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_17_1.txt"}
+{"regex":"<a [^>]*\\<href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\"]{0,150}\"[^>]*>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_18_1.txt"}
+{"regex":"<a [^>]*\\<href=\"http://emarketingdeguatemala\\.com/[^\"]{0,80}\"[^>]*>SI NO PUEDE VER LA IMAGEN POR FAVOR CLICK AQUI</a>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_19_1.txt"}
+{"regex":"<a href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\"]{0,100}\">See\\s+the\\s+method\\s+revealed.?</a>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_20_1.txt"}
+{"regex":"<a href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\"]{0,150}\"[^>]{0,50}>Claim it Now</a>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_21_1.txt"}
+{"regex":"<a href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^>]{0,50}cnrmf[^>]{0,50}>[^<]{0,50}\\<stock\\>[^<]{0,50}</a>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_22_1.txt"}
+{"regex":"<a href=\"https?://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^.]{0,12}Invoice_?\\d{6,12}\\.zip\">[^<]{2,80}</a>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_23_1.txt"}
+{"regex":"<a[ \\x20][^>]{100,}>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_24_1.txt"}
+{"regex":"<body><meta[^>]*>\\s*<title>[^<]{5,50}</title>\\s*<center>\\s*", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_25_1.txt"}
+{"regex":"<body><p><span[^>]{0,80}>[^<]{2,20}<br />\\s*", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_26_1.txt"}
+{"regex":"<body>[\\x20\\x20]{1,2}.{5,120}<br><a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{1,20}\">[^<]{2,40}<\\/a><br><br><br>[\\x20\\x20]{1,2}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\"><\\/a>[\\x20\\x20]{1,2}<\\/body>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_28_1.txt"}
+{"regex":"<body>[^<]{0,5}<h3>[^<]{0,5}<center><form[^>]{1,50}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_29_1.txt"}
+{"regex":"<body>\\s*<h1><a \\x20?href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\"]{0,150}\">", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_30_1.txt"}
+{"regex":"<body>\\s*<h1><a \\x20?href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\"]{0,150}\"><span \\x20style=\"[^\"]+\"><span \\x20style=\"color:#FF0000\"><strong>[^<]{30,130}</strong></span></span></a></h1>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_31_1.txt"}
+{"regex":"<body>\\s*<p>\\s*<img src=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\"]{0,50}\"[^>]*></p>\\s*", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_32_1.txt"}
+{"regex":"<body>\\x20 {0,50}\\x20 {20,80}<font[^>]{3,80}>[^<]{3,30}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_33_1.txt"}
+{"regex":"<body>\\x20<style>[^<]{5,60}</style>\\x20<a href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^>]{2,50}\">[^<]{5,120}</a>\\x20<style>[^<]{5,60}</style>\\x20</body>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_34_1.txt"}
+{"regex":"<body>\\x20?<img src=\"http://[-.a-z0-9 ]{1,40}\\.[a-z]{2,4}/[^=]{0,50}=[a-zA-Z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">\\x20?</body>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_35_1.txt"}
+{"regex":"<body[^>]{0,120}>\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_36_1.txt"}
+{"regex":"<br />\\s*Does this sound like fun to you\\? <a href=\"http://[-.a-zA-Z0-9]{1,40}\\.ru/\\?profile=[a-z0-9]{2,80}\"[^>]*>My user is [a-zA-Z0-9]{2,15}</a>\\. Please\\s+hurry\\.</p>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_37_1.txt"}
+{"regex":"<div dir=\"ltr\"><br clear=\"all\"><br>-- <br>Regards<br>\\w{3,25} [-a-zA-Z0-9_]{3,25}\\x20</div>\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_38_1.txt"}
+{"regex":"<font style=\"BACKGROUND-COLOR: white\"[ \\x20]{1,3}color=white>[^<]{1,120}</font>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_39_1.txt"}
+{"regex":"<h1 [^>]{0,50}\\<style=\"[^\"]{0,160}\\<font-size: ?[4-9][0-9]px[^\"]{0,160}\"[^>]*>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_40_1.txt"}
+{"regex":"<head>\\x20\\x20{4}<!-- NAME: GIFT GIVING -->\\x20\\x20{4}<!--\\[if gte mso 15\\]>\\x20\\x20{4}<xml>\\x20\\x20{6}<o:officedocumentsettings>\\x20\\x20{8}<o:allowpng />\\x20\\x20{8}<o:pixelsperinch>96</o:pixelsperinch>\\x20\\x20{6}</o:officedocumentsettings>\\x20\\x20{4}</xml>\\x20\\x20{4}<!\\[endif\\]-->\\x20\\x20{4}<meta charset=\"UTF-8\">\\x20\\x20{4}<meta http-equiv=\"x-ua-compatible\" content=\"IE=edge\">\\x20\\x20{4}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_41_1.txt"}
+{"regex":"<html>[^<]{1,50}<a {1,3}href=\"http://thingdream.[a-z]{2,4}\">", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_42_1.txt"}
+{"regex":"<html>\\s{0,5}<body>\\s{0,5}<h1[^>]{0,120}>[^<]{5,40}</h1>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_43_1.txt"}
+{"regex":"<img alt=\"BrandViagra \\d\\d% OFF\"[^>]{0,120}>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_44_1.txt"}
+{"regex":"<img src=[^ >]{0,50}paypal\\.com[^>]{0,120}>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_45_1.txt"}
+{"regex":"<img src=[^>]{0,50}intuit\\.com[^>]{0,120}>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_46_1.txt"}
+{"regex":"<meta http-equiv=\"refresh\" content=\"0 url=http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\\x20]{0,50}\">", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_47_1.txt"}
+{"regex":"<p[^>]{0,180}>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_48_1.txt"}
+{"regex":"<span style=\"[^\"]{0,90}font-size: large[^\"]{0,90}\"><a href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^>]{0,50}\">\\s{0,2}Make money and change your life NOW! Within 5 minutes!</a><br ?/>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_49_1.txt"}
+{"regex":"<style type=\"text/css\">header::before \\{\\s*content: \"[^\\x20]{100,}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_50_1.txt"}
+{"regex":"<table[^>]{0,160}>\\s{0,2}<tr>\\s{0,5}<td[^>]{0,160}>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_51_1.txt"}
+{"regex":"<table[^>]{0,50}>[ \\x20\\x20]{0,5}<tr>[ \\x20\\x20]{0,8}<td[^>]{0,60}>[ \\x20\\x20]{0,10}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_52_1.txt"}
+{"regex":"<table[^>]{0,50}>[^<]{1,50}<tr>[^<]{1,50}<td[^>]{0,50}>[^<]{1,50}<font[^>]{0,80}>[^<]{40,80}<br />[^<]{40,80}<br />[^<]{60,120}</font>[^<]{1,50}</td>[^<]{1,50}</tr>[^<]{1,50}</table>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_53_1.txt"}
+{"regex":"<tbody><tr><td[^>]{0,160}>Hello,<br><br>You recently asked to reset your Facebook password\\.<a href=\"(http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\"]{0,50})\"[^>]{0,80}><br>Click here to change your password\\.</a><br>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_54_1.txt"}
+{"regex":"<tr>\\s{0,10}<td[^>]{0,80}>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_55_1.txt"}
+{"regex":"@ ?a ?t ?l ?a ?n ?t ?a ?c ?o ?n ?s ?u ?l ?t ?i ?n ?g ?\\.[^\\x20]{2,60}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_56_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.best>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_57_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.bid>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_58_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.club>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_59_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.date>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_60_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.faith>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_61_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.icu", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_62_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.live", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_63_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.party>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_64_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.pro>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_65_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.review>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_66_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.space>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_67_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.stream>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_68_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.top>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_69_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.trade>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_70_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.wang", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_71_1.txt"}
+{"regex":"@[-.a-z0-9]{1,40}\\.win>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_72_1.txt"}
+{"regex":"Addme on WhatsApp \\d{1,30} lets hookup tonight!", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_73_1.txt"}
+{"regex":"Aiful Company|aiful.[a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}|Frank Walton", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_74_1.txt"}
+{"regex":"Click.here.{1,100}http:\\/\\/[a-z0-9.]{1,10}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_75_1.txt"}
+{"regex":"First Name: [A-Z][a-z]{1,20}\\x20Eyes: [a-z]{1,10}\\x20Hair Color: [a-z]{1,10}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_76_1.txt"}
+{"regex":"Good day!\\x20{2}You should know this[^\\x20]{10,80}\\x20it.s strongly confidential[^\\x20]{10,50}\\x20{2}[^\\x20]{10,50}\\x20[^\\x20]{10,50}\\x20*", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_77_1.txt"}
+{"regex":"Hi,\\x20as promised your changelog is attached,\\x20[^\\x20]{3,80}\\x20{1,5}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_78_1.txt"}
+{"regex":"I.m\\x20{1,2}from [A-Z][- a-zA-Z]{2,20}\\.\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_79_1.txt"}
+{"regex":"Intuit No Reply[^<>]{0,50}<[a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_80_1.txt"}
+{"regex":"PLEASE,\\x20\\x20KINDLY READ[^\\x20]{10,80}\\x20\\x20[^\\x20]{3,40}\\x20{1,5}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_81_1.txt"}
+{"regex":"[A-Z0-9]{1,10}-[A-Z0-9]{1,10}-[A-Z0-9]{1,10}-[A-Z0-9]{1,10}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_83_1.txt"}
+{"regex":"[^\\x20]{3,150}\\x20[^\\x20]{3,150}\\x20{3}http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2}[^\\x20]{0,150}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_84_1.txt"}
+{"regex":"[^\\x20]{3,30}\\x20[^\\x20]{2,10}\\x20bye\\x20{1,5}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_85_1.txt"}
+{"regex":"[a-z0-9._-]{1,25}@bbb.org", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_86_1.txt"}
+{"regex":"[a-z0-9._-]{1,25}@freefaxtoemail\\.net", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_87_1.txt"}
+{"regex":"[a-zA-Z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.jp>?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_88_1.txt"}
+{"regex":"[fF]org[oe]t.{0,25}[pP]assword", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_89_1.txt"}
+{"regex":"\\$\\d{2,6}[,.]\\d{3}.{1,50}for.{1,50}\\$\\d{3}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9000_1.txt"}
+{"regex":"\\<\"[a-z]{2,15} [a-z]{2,15}\" <[a-z0-9]{2,20}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9001_1.txt"}
+{"regex":"\\<(\"Sanesecurity\\.Malware\\.\\d{1,6}\\.JsHeur\\.UNOFFICIAL\\([a-z0-9]{1,35}\\:\\d{1,6}\\)\"\\.|\"JS\\:Trojan\\.JS\\.Nemucod\\.BH\"\\.)", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9002_1.txt"}
+{"regex":"\\<(You got a free invite from|Bring love in your life) [\\w\\-\\:\\/\\.]{1,150}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9003_1.txt"}
+{"regex":"\\<<BODY[^>]{0,80}>\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9004_1.txt"}
+{"regex":"\\<<body>\\x20+<p[^>]{0,80}>[^<]{60,}</p>\\x20+", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9005_1.txt"}
+{"regex":"\\<<body[^>]{0,120}><div[^>]{0,160}><a href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/?\">", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9006_1.txt"}
+{"regex":"\\<<body[^>]{0,60}>[ \\x20]{1,8}<p>[ \\x20]{1,8}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9007_1.txt"}
+{"regex":"\\<Description of Violation.{3,50}\\<TO PLEAD, PRINT OUT THE ENCLOSED TICKET AND SEND IT TO TOWN COURT", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9008_1.txt"}
+{"regex":"\\<Get your .{0,30}Classic watch", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9009_1.txt"}
+{"regex":"\\<Go undercover with a .500 gift voucher for each store[^\\x20]{0,60}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9010_1.txt"}
+{"regex":"\\<Great Expedition\"? .{0,25}company|@great-exp", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9011_1.txt"}
+{"regex":"\\<I have attached a revised spreadsheet contains .{1,35}\\. Please check ifit.s correct", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9012_1.txt"}
+{"regex":"\\<If you have any queries in regards to your Purchase Order, please contact your requestor,  .{2,30} on \\d{3,9} \\d{3,9} ext \\d{3,5}\\.$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9013_1.txt"}
+{"regex":"\\<Inv\\# [0-9a-f]{4,12} for PO\\# [0-9a-f]{4,12}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9014_1.txt"}
+{"regex":"\\<JXDGWrckgbcM\\.Tnwby5ch\\@.{2,60}\\.[a-zA-Z]{1,4}\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9015_1.txt"}
+{"regex":"\\<Linked ?In[^<>]{0,50}<[a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9016_1.txt"}
+{"regex":"\\<Please review the details of the payment <a href=\"https?://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/download\\.[^\"]{0,150}\">here.?</a>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9017_1.txt"}
+{"regex":"\\<Skinny Pills|\\<change your life with a \\w{0,25} ?med formula|\\<This product will become a sensation", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9018_1.txt"}
+{"regex":"\\<The amount of money transfer: \\d{4} USD|\\<tracking number.{1,100}\\<att?ach", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9019_1.txt"}
+{"regex":"\\<The attached spreadsheet contains.{1,35}\\. Please review", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9020_1.txt"}
+{"regex":"\\<The following information for your Apple ID [a-zA-Z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4} was updated on \\d{2}/\\d{2}/2017:$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9021_1.txt"}
+{"regex":"\\<Your USPS Tracking Number is\\: \\d{1,30}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9022_1.txt"}
+{"regex":"\\<Your invoice for eBay purchases \\(\\d{1,68}\\#\\)\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9023_1.txt"}
+{"regex":"\\<[-_a-z0-9]{2,20}_\\d{2}-\\d{2}-\\d{4}[-_a-zA-Z0-9]{2,20}\\.pdf\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9024_1.txt"}
+{"regex":"\\<[\\w\\,\\.\\s]{1,250}asked me to send you invoice for August\\. Please look over the attachement and make a payment ASAP\\./ic                                                                        ", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9025_1.txt"}
+{"regex":"\\<[a-z0-9._-]{1,25}@gmail\\.com", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9026_1.txt"}
+{"regex":"\\<[a-z0-9._-]{1,25}@qq\\.com\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9027_1.txt"}
+{"regex":"\\<[a-zA-Z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9028_1.txt"}
+{"regex":"\\<[a-z]{1,20}\\@[a-z0-9]{1,20}\\.club\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9029_1.txt"}
+{"regex":"\\<[a-z|@|.]{0,40}(rufastnews|streetlenta).ru", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9030_1.txt"}
+{"regex":"\\<\\$\\d{1,3} per .{1,20} delivered messages", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9031_1.txt"}
+{"regex":"\\<\\d{15,26}\\.pdf", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9032_1.txt"}
+{"regex":"\\<\\d{4,15} (pen|under)[\\w]{1,20}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9033_1.txt"}
+{"regex":"\\<a00[\\w\\-\\.]{1,20}\\@.*\\.[\\w\\.\\-]{1,10}\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9034_1.txt"}
+{"regex":"\\<are registered marks of the Project Management Institute, Inc\\.\\s-{60,}\\s[^\\x20]{0,80}\\<Unsubscribe.{0,80}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9035_1.txt"}
+{"regex":"\\<href=\"[^\"]{10,60}/uver.html\">", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9036_1.txt"}
+{"regex":"\\<http://[^/]{1,50}/Outlook_update.exe", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9037_1.txt"}
+{"regex":"\\<http://[a-zA-Z0-9.]{2,30}goldgalaxycasino.[a-z]{2,3}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9038_1.txt"}
+{"regex":"\\<http://[a-zA-Z]{2,20}\\d{3,4}.[a-zA-Z0-9]{2,20}.[a-zA-Z]{2,3}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9039_1.txt"}
+{"regex":"\\<https?://.{2,120}\\.html\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9040_1.txt"}
+{"regex":"\\<https?://.{2,120}\\.php\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9041_1.txt"}
+{"regex":"\\<https?://.{2,120}\\.rar\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9042_1.txt"}
+{"regex":"\\<https?://.{2,120}\\.xyz\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9043_1.txt"}
+{"regex":"\\<name=\"[^\\x20]{1,80}\\.html?\"", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9044_1.txt"}
+{"regex":"\\<name=.{2,25}\\.mp3", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9045_1.txt"}
+{"regex":"\\<registering on CNN\\.com.{1,25}confirm your membership now", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9046_1.txt"}
+{"regex":"\\<v{1,20}i{1,20}a{1,20}g{1,20}r{1,20}a", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9047_1.txt"}
+{"regex":"\\d{15,25}\\x20{1,4}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9048_1.txt"}
+{"regex":"\\x20 {0,4}<body[^>]{0,50}>\\x20 {0,5}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9049_1.txt"}
+{"regex":"\\x20 {0,5}<body >\\x20<table[^>]{0,200}><tr><td>[^<]{0,10}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9050_1.txt"}
+{"regex":"\\x20 {0,5}<body[^>]{0,50}>\\x20 {0,5}<p>\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9051_1.txt"}
+{"regex":"\\x20----=_NextPart[_\\.A-Z0-9]{1,40}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9052_1.txt"}
+{"regex":"\\x20-{20,80}\\x20 {1,5}[^\\x20]{10,80}\\x20{2} {1,5}\\d{1,2}% OFF [^\\x20]{10,80}\\x20{2}-{20,80}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9053_1.txt"}
+{"regex":"\\x20</HEAD>\\x20<BODY[^>]{0,25}>\\x20[^<]{1,80}<a href=\"[a-z0-9]{3,10}\\.ru\">[^<]{1,50}</a></BODY></HTML>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9055_1.txt"}
+{"regex":"\\x20<BODY>.{0,2}<BR>.{5,50}<BR>.{0,2}<A HREF=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">[^<]{3,50}<\\/a>.{0,2}<\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9056_1.txt"}
+{"regex":"\\x20<BODY><a href=\"[-.a-z0-9]{1,40}\\.[a-z]{2,4}\"[^>]{0,20}>[\\x20\\x20]{1,2}<img src=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{3,10}\" [^>]{50,100}><\\/a><\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9059_1.txt"}
+{"regex":"\\x20<BODY><div.{5,20}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\"><img .{5,50}<\\/a><\\/div><\\/a><\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9060_1.txt"}
+{"regex":"\\x20<BODY><table>.{2,20}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/\"><img .{50,180}<\\/a><br>.{2,20}<a href=\"[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">.{20,120}<\\/table><\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9063_1.txt"}
+{"regex":"\\x20<BODY><table[^>]{0,25}><tr><td><a href=\"[^>]{20,60}\"><br><b>\\x20<font[^>]{0,60}>[^<]{5,150}</font></b><a href=\"[^>]{20,60}\"><br><br>\\x20<a href=\"[^>]{20,60}\"><img[^>]{20,80}></a>\\x20</td></tr></table>\\x20<br><br>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9064_1.txt"}
+{"regex":"\\x20<BODY>[\\x20\\x20 ]{1,5}<\\/?p>[\\x20\\x20]{1,2}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">[^<]{3,50}<\\/a>[\\x20\\x20]{1,4}<\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9065_1.txt"}
+{"regex":"\\x20<BODY>[\\x20\\x20]{1,2}<DIV>.{60,200}<\\/DIV>[\\x20\\x20]{1,2}<DIV>.{0,10}<\\/DIV>[\\x20\\x20]{1,2}<DIV><A href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">[^<]{3,25}<\\/A><\\/DIV><\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9066_1.txt"}
+{"regex":"\\x20<BODY>[\\x20\\x20]{1,2}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">.{5,100}<\\/a><br><br>[\\x20\\x20]{1,2}.{50,}<\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9067_1.txt"}
+{"regex":"\\x20<BODY>[\\x20\\x20]{1,2}[^<]{0,50}<BR>[\\x20\\x20]{1,2}<A href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{0,10}\">[^<]{0,50}<\\/A>[\\x20\\x20]{1,2}<\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9068_1.txt"}
+{"regex":"\\x20<BODY>\\x20<img [^>]{0,100}>\\x20<p><span[^>]{0,35}>\\x20[^\\x20]{3,40}\\x20</span></p>\\x20</BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9069_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,20}>[\\x20\\x20]{1,2}<DIV>.{30,}<\\/DIV>[\\x20\\x20]{1,2}<DIV>&nbsp<\\/DIV>[\\x20\\x20]{1,2}<DIV><FONT[^>]{0,25}><A[ \\x20\\x20]{0,3}href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">[^<]{1,30}<\\/A><\\/FONT><\\/DIV><\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9072_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,20}>[\\x20\\x20]{1,2}<TABLE[^>]{0,100}><TR><TD><DIV.{20,150}<BR><DIV[^>]{0,25}><a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">.{20,120}<\\/a><\\/DIV><BR>.{25,100}<\\/TD><\\/TR><\\/TABLE>[\\x20\\x20]{1,2}<\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9073_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,20}>[\\x20\\x20]{1,2}<\\/BODY>[\\x20\\x20]{1,2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9074_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,20}>[\\x20\\x20]{1,2}<center>[^>]{5,100}<br><A href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{1,15}\">[^<]{3,25}<\\/A><br>.{20,80}<\\/center>[\\x20\\x20]{1,2}<\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9075_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,20}>[\\x20\\x20]{1,2}[^<]{50,}<br>[\\x20\\x20]{1,2}<br>[\\x20\\x20]{1,2}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">.{5,30}<\\/a>[\\x20\\x20]{2,8}<\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9076_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,20}>[\\x20\\x20]{2,4}.{100,}<br>[\\x20\\x20]{1,2}<br>[\\x20\\x20]{1,2}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{2,20}\">.{2,150}<\\/a>[\\x20\\x20]{2,4}<\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9077_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,20}>\\x20<FONT[^>]{0,20}>[^<]{5,50}<BR>[^<]{5,50}</FONT><BR>\\x20<a href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^>]{2,25}\">.{3,50}</a></BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9078_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,25}>.{5,80}http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/.{1,20}<br>[\\x20\\x20]{1,2}<img .{5,100}<\\/img>[\\x20\\x20]{3,6}<\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9080_1.txt"}
+{"regex":"\\x20<BODY[^>]{0,25}>\\x20<DIV[^>]{0,35}><FONT[^>]{0,35}><IMG[^>]{0,60}[ \\x20]src=\"cid:[^>]{10,50}\"></FONT></DIV></BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9081_1.txt"}
+{"regex":"\\x20<STYLE><\\/STYLE>[ \\x20\\x20]{0,2}<\\/HEAD>[ \\x20\\x20]{0,2}<BODY>[ \\x20\\x20]{0,2}[^\\x20\\x20]{1,100}[ \\x20\\x20]{0,2}<\\/BODY>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9082_1.txt"}
+{"regex":"\\x20<[^>]{40,150}/> {0,3}[\\x20\\x20]{1,2}<A HREF=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{5,120}\"> ?<IMG [^>]{5,80}\"><\\/A><BR\\/><BR\\/>[\\x20\\x20]{1,2}<A HREF=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{5,120}\"> ?http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{5,120}<\\/A>[\\x20\\x20]{1,2}<[^>]{40,150}/> {0,3}[\\x20\\x20]{1,2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9083_1.txt"}
+{"regex":"\\x20<body>[^<]{3,80}<br><br>\\x20<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">[^<]{3,50}</a>\\x20<br><br>[^<]{3,80}</body>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9088_1.txt"}
+{"regex":"\\x20<body[^>]{0,120}>\\x20<div[^>]{0,80}>\\x20[^<]{0,10}<table[^>]{0,120}>\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9089_1.txt"}
+{"regex":"\\x20<body[^>]{0,150}>\\x20?<div[^>]{0,80}>\\x20<table[^>]{0,150}><tr><td>\\x20<div[^>]{0,200}>\\x20?", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9090_1.txt"}
+{"regex":"\\x20<body[^>]{0,20}>[\\x20\\x20]{1,2}<table.{10,100}<br>.{5,80}<br><br><a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">.{10,100}<br>.{5,50}\\x20<\\/table>[\\x20\\x20]{1,2}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\"><\\/a>[\\x20\\x20]{1,2}<\\/body>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9091_1.txt"}
+{"regex":"\\x20<div>[^<]{3,255}</div>\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9092_1.txt"}
+{"regex":"\\x20<html><body[^>]{0,20}><a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{2,20}\">.{3,100}<\\/a><\\/body><\\/html>[\\x20\\x20]{1,2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9093_1.txt"}
+{"regex":"\\x20<html><body[^>]{0,20}><b><br><a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{1,25}\">[^<]{2,50}<\\/a><\\/b><\\/body><\\/html>[\\x20\\x20]{1,2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9094_1.txt"}
+{"regex":"\\x20<html>\\x20 {0,5}<head>\\x20 {0,5}<meta[^>]{10,80}>\\x20 {0,5}</head>\\x20 {0,5}<body> {0,5}\\x20{2}<h1><b>[^<]{1,50}</b>\\x20{2}<script>[^<]{250,}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9095_1.txt"}
+{"regex":"\\x20<p>S pozdravem[^<]{0,60}</p>\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9096_1.txt"}
+{"regex":"\\x20<table[^>]{0,80}>\\x20 {0,6}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9097_1.txt"}
+{"regex":"\\x20>>> http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\\x20]{2,20} <<<\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9098_1.txt"}
+{"regex":"\\x20? {0,60}<body>[^<]{0,50}<p>[^<]{0,50}<font[^>]{0,30}>[^<]{0,80}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9099_1.txt"}
+{"regex":"\\x20?<DIV><FONT[^>]{1,50}><A href=\"http://[^>]{1,50}><IMG[^\\x20]{1,50}\\x20[^\\x20]{1,150}\\x20align=baseline border=0></A></FONT></DIV>\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9100_1.txt"}
+{"regex":"\\x20Company: http://www\\.[-.a-z0-9]{20,40}\\.org/\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9101_1.txt"}
+{"regex":"\\x20Local Mom.s Shocking Story http://[-.a-z0-9]{1,20}\\.[a-z]{2,4}/[^\\x20]{2,20}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9102_1.txt"}
+{"regex":"\\x20Newsletter \\d{1,4} - [a-z]{2,20} \\d\\d[a-z]{2}, \\d{4} In This Issue\\x20{4}Enjoy today's articles!\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9103_1.txt"}
+{"regex":"\\x20You can receive more information, having sent a request along with your resume to this email [a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20[^\\x20]{3,80}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9104_1.txt"}
+{"regex":"\\x20[ \\x20]{0,25}<br> ?<hr[^>]{0,60}><a target=\"_blank\" href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^>]{40,}>\\x20\\x20{1,5} {0,5}<img alt=\"[^>\"]{0,30}Click here[^>\"]{0,30}\" [^>]{5,80}></a><br> ?<hr[^>]{0,60}>&nbsp", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9105_1.txt"}
+{"regex":"\\x20[^\\x20]{2,20}\\|[^\\x20]{2,20}\\x20[^\\x20]{5,50} http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^\\x20]{2,25}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9106_1.txt"}
+{"regex":"\\x20[^\\x20]{3,120}\\<My Verizon\\x20Total Balance Due: \\$\\d{1,3}\\.\\d{2}\\x20Scheduled Automatic Payment Date: \\d{2}/\\d{2}/20\\d{2}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9107_1.txt"}
+{"regex":"\\x20[^\\x20]{30,60}\\*\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9108_1.txt"}
+{"regex":"\\x20[a-z0-9._-]{1,25}@key\\.com\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9109_1.txt"}
+{"regex":"\\x20http://[a-z0-9]{1,8}\\.[-.a-z0-9]{1,40}\\.ru/\\?[^\\x20]{3,80}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9110_1.txt"}
+{"regex":"\\x20{2}[-*+]{1,120}\\x20{2}\\+ 1 - \\d{3} - \\d{3} - \\d{4}\\x20{2}[-*+]{1,120}\\x20{2}[^\\x20]{3,50}\\x201[).] [^\\x20]{3,80}\\x202[).] [^\\x20]{3,80}\\x203[).] [^\\x20]{3,80}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9111_1.txt"}
+{"regex":"\\x20{2}[^\\x20]{40,120}\\x20Our e-mail: \\<[a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2}Sincerely, [^\\x20]{2,25}\\x20{0,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9112_1.txt"}
+{"regex":"\\x20{5}<br/><br>\\x20<img src=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/open.php[^>]{1,50}\"></body></html>\\x20{1,2}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9113_1.txt"}
+{"regex":"^ *20\\d{2} design [a-z]{1,20}.ru *$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9114_1.txt"}
+{"regex":"^ +\\x20[^\\x20]{3,80}\\x20[^\\x20]{3,120}\\x20http://[-.a-z0-9]{1,40}\\.ru\\x20 +\\x20{1,5}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9115_1.txt"}
+{"regex":"^ ?\\x7f ?2009 [a-z0-9 ]{1,25}, Inc\\.,$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9116_1.txt"}
+{"regex":"^ \\d{1,2} [a-z]{3,10} 200\\d {1,3}[a-z ]{2,30}\\x20.+\\x7f 200\\d\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9117_1.txt"}
+{"regex":"^\"Color @ MRH Solicitors\" <color\\d{1,6}@[^>]{4,25}>$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9119_1.txt"}
+{"regex":"^(Possible Spam \\: |Probable Virus Outbreak\\: )?(\\d{1,2}(122016|022027|052024|012006)\\d{5,25}|\\d{10,30})", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9120_1.txt"}
+{"regex":"^.{0,20}DEPOSIT.{1,20}Profit.{1,20}%.{1,30}\\<WWW\\.[-.a-zA-Z0-9]{1,40}\\.[a-zA-Z]{2,4}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9121_1.txt"}
+{"regex":"^.{0,30}\\<cutie. I saw you on a match site sometime last week.{0,90}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9122_1.txt"}
+{"regex":"^.{200,}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9123_1.txt"}
+{"regex":"^<!&!AAAAAAAAAAAuAAAAAAAAAH\\+TsmRVFpZOr0o1ygn2HI4BAMO2jhD3dRHOtM0AqgC7tuYAAAAAAA4AABAAAAATwan2xb6LTaC8x6uZKRm/AQAAAAA=@[-.a-z0-9]{1,40}\\.[a-z]{2,6}>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9124_1.txt"}
+{"regex":"^<!DOCTYPE[^>]{30,80}>\\x20<HTML><HEAD><TITLE></TITLE>\\x20</HEAD>\\x20<BODY>\\x20{2}<html><body>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9125_1.txt"}
+{"regex":"^<3582e01d-4839-f1b5-82f7-418410429a54@[-.a-z0-9]{1,40}\\.[a-z]{2,4}>$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9126_1.txt"}
+{"regex":"^<[a-zA-Z0-9._-]{1,25}@[-.a-z0-9]{1,30}\\.[a-z]{2,4}>$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9127_1.txt"}
+{"regex":"^<html>\\x20<div[^>]{0,80}>\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9128_1.txt"}
+{"regex":"^<input id=\"[^\"]{1,20}\"  border=\"0\"  src=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\"]{0,80}\"  type=\"image\" />", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9129_1.txt"}
+{"regex":"^<p><b>[^<]{0,90}\\<click on link below</b></p>\\s{0,5}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9130_1.txt"}
+{"regex":"^<script>[^\\x20]{200,}</script>$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9131_1.txt"}
+{"regex":"^<style>[^>]{5,100}<\\/style>[^<]{3,40} <a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/\">[^<]{1,20}<\\/a><style>[^>]{5,100}<\\/style>[\\x20\\x20]{0,2}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9132_1.txt"}
+{"regex":"^Begin forwarded message\\s+http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^.]{1,50}\\.php\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9133_1.txt"}
+{"regex":"^DOCUMENT NOTIFICATION.[^\\x20]{2,30}\\x20{2}DOCUMENT NAME: [^\\x20]{2,30}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9134_1.txt"}
+{"regex":"^Date: [^\\x20]{3,40}\\x20Message-Id: [^\\x20]{3,80}\\x20X-abte: [^\\x20]{3,40}\\x20From: [^\\x20]{3,80}\\x20To: [^\\x20]{3,80}\\x20Subject: [^\\x20]{3,80}\\x20X-Accept-Language: [^\\x20]{1,10}\\x20Approved-by: [^\\x20]{3,80}\\x20User-Agent: [^\\x20]{3,30}\\x20MIME-Version: [^\\x20]{1,10}\\x20Content-Type: [^\\x20]{3,80}\\x20Content-Transfer-Encoding: [^\\x20]{1,10}\\x20{1,2}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9135_1.txt"}
+{"regex":"^Dear [a-z0-9._-]{1,25}, Attached is the invoice for the product\\(s\\) and.or service\\(s\\) you recently purchased\\. We appreciate doing business with you! Regards, [ A-Za-z]{2,30}\\s*$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9136_1.txt"}
+{"regex":"^Dear [a-zA-Z0-9._-]{1,45}@[-.a-z0-9]{1,40}\\.[a-z]{2,4} !\\x20[^\\x20]{100,}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9137_1.txt"}
+{"regex":"^Hi [^ ]{1,90} how are you?.$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9138_1.txt"}
+{"regex":"^Hi [a-z0-9._-]{1,25}\\s*How are you\\?\\s*My name is [A-Z][a-z]{1,12}\\.\\s*I am [1-3][0-9] years old\\. I am from", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9139_1.txt"}
+{"regex":"^Hi\\x20{2}Any chance of getting this invoice paid, please\\?\\x20{2}Many thanks\\x20{2}[ A-Za-z]{2,30}\\s*", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9140_1.txt"}
+{"regex":"^Hola, aqui les mando las fotos de la fiesta.\\x20[^\\x20]{30,}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9141_1.txt"}
+{"regex":"^I have a VERY exciting \\*{2}Members Only\\*{2} invite\\.{3}\\x20{2}==> http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^>]{0,50}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9142_1.txt"}
+{"regex":"^Is this email not displaying correctly\\?\\x20View it in your browser http://[a-z0-9]{1,10}\\.burnfatblog[a-z]{0,10}\\.ru/[^\\x20]{0,50}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9143_1.txt"}
+{"regex":"^It.s time to [^\\x20]{10,150}\\x20[^\\x20]{20,200}\\x20Call [^\\x20]{10,150}\\x20Call [^\\x20]{10,150}\\x20*$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9144_1.txt"}
+{"regex":"^New messasge\\x20[^\\x20]{3,30}message for you: \"I am on-line now, let`s chat\\?\" Total unread messages - \\d{1,2}\\. Read now\\.\\. \\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9145_1.txt"}
+{"regex":"^Please review you payment details\\.\\x20Transaction id #[a-z0-9]{10,20}\\x20{0,5}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9146_1.txt"}
+{"regex":"^Send the data to the email address of company [a-z0-9._-]{1,25}@hotmail\\.com and before sending  ?check address", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9147_1.txt"}
+{"regex":"^Subject\\: \\d{1,2}122016\\d{5,25}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9148_1.txt"}
+{"regex":"^TO UNSUBSCRIBE [^\\x20]{5,150} PRIVACY POLICY [^\\x20]{2,50}\\x20Copyright [^\\x20]{5,150}\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9149_1.txt"}
+{"regex":"^Transaction is completed\\. .\\d{3,6} has been successfully transfered\\.\\x20[^\\x20]{60,160}\\x20[^\\x20]{250,}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9150_1.txt"}
+{"regex":"^Username:\"[^\"]{1,120}\" Password:\"[^\"]{1,12}\" Valid From:\"[^\"]{5,32}\" Valid To:\"[^\"]{5,32}\"$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9151_1.txt"}
+{"regex":"^Win http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/!\\x20{0,5}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9152_1.txt"}
+{"regex":"^You are subscribed .{1,30}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\. To unsubscribe .{1,30}click here\\.$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9153_1.txt"}
+{"regex":"^Your order acknowledgment is attached.\\x20{2}[^\\x20]{20,60}\\x20{2}[^\\x20]{2,20}\\x20{2}[^\\x20]{2,20}\\x20*$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9154_1.txt"}
+{"regex":"^[ \\x20]{0,150}\\<[+0-9]{9,13}[^\\x20]{5,255}\\x20{1,4}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9155_1.txt"}
+{"regex":"^[13][0-9a-zA-Z]{30,33}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9156_1.txt"}
+{"regex":"^[13][0-9a-zA-Z]{30,34}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9157_1.txt"}
+{"regex":"^[\\x20\\x20]{0,2}<DIV>.{5,150}<\\/DIV>[\\x20\\x20]{1,2}<DIV>.{5,60}<\\/DIV>[\\x20\\x20]{1,2}<DIV>.{5,40}<A [\\x20\\x20]{0,2}href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">[^<]{5,40}<\\/A><\\/FONT><\\/DIV>[\\x20\\x20]{0,2}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9158_1.txt"}
+{"regex":"^[\\x7e-\\x7f]{3,20}\\x20{1,2}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9159_1.txt"}
+{"regex":"^[^ \\x20]{2,15}, http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\\x20]{3,15}\\x20{1,2}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9160_1.txt"}
+{"regex":"^[^<\\x20]{5,120}<a href=\"http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^>]{3,30}\">[^<]{5,50}<\\/a>\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9161_1.txt"}
+{"regex":"^[^>]{8,150}[ !]>{3,5}[ \\x20]?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9162_1.txt"}
+{"regex":"^[^\\x20]+\\x20[^\\x20]+\\x20[^\\x20]+\\x20{2}http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}[^\\x20]{0,5}\\x20{2}[^\\x20]+\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9163_1.txt"}
+{"regex":"^[^\\x20]{0,30}\\<Processing Service[^\\x20]{0,20}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9164_1.txt"}
+{"regex":"^[^\\x20]{0,30}\\<attached file[^\\x20]{0,30}\\x20{1,4}Assistant Vice President, FBR service\\x20{1,2}Management Corporation\\s*$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9165_1.txt"}
+{"regex":"^[^\\x20]{0,30}\\<download[^\\x20]{0,50}\\<payment[^\\x20]{0,50}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9166_1.txt"}
+{"regex":"^[^\\x20]{1,150}\\x20[^\\x20]{0,150}\\x20[^\\x20]{1,150}\\x20[^\\x20]{1,150}\\x20{2}http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/[^\\x20]{0,25}\\x20{1,5}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9167_1.txt"}
+{"regex":"^[^\\x20]{1,15}\\x20{2}[^\\x20]{5,80}\\x20[^\\x20]{5,80} http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2}[^\\x20]{1,20}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9168_1.txt"}
+{"regex":"^[^\\x20]{1,30}\\x20[^\\x20]{3,80}\\x20[^\\x20]{3,30}\\<http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/?\\x20[^\\x20]{1,30}\\x20{0,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9169_1.txt"}
+{"regex":"^[^\\x20]{1,30}\\x20[^\\x20]{30,150}\\x20{1,2}[^\\x20]{30,150}\\x20[^\\x20]{30,120}\\x20[^\\x20]{3,40}\\x20{2}[a-z0-9._-]{1,25}@hotmail\\.com\\x20{0,5}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9170_1.txt"}
+{"regex":"^[^\\x20]{10,100}\\x20{2}www\\.[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9171_1.txt"}
+{"regex":"^[^\\x20]{10,120}\\x20 \\x20http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20 \\x20[^\\x20]{10,100}\\x20 \\x20 \\x20[^\\x20]{10,120}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9172_1.txt"}
+{"regex":"^[^\\x20]{10,120}\\x20{2,4}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9173_1.txt"}
+{"regex":"^[^\\x20]{10,150} http:\\/\\/[-.a-z0-9]{1,50}\\.[a-z]{2,4}\\/[^\\x20]{1,20}\\x20{0,2}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9174_1.txt"}
+{"regex":"^[^\\x20]{10,80}\\x20<a href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\\x20]{0,200}\">Welcome!</a>\\x20*$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9175_1.txt"}
+{"regex":"^[^\\x20]{10,80}\\x20{2}[^\\x20]{10,180}\\x20http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4} {0,3}\\x20{1,5}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9176_1.txt"}
+{"regex":"^[^\\x20]{10,90}\\x20http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^>]{0,50}oprah\\.html$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9177_1.txt"}
+{"regex":"^[^\\x20]{100,200}\\x20http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20[^\\x20]{15,45}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9178_1.txt"}
+{"regex":"^[^\\x20]{15,80}\\x20{3}Check It Out Here For More Information\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9179_1.txt"}
+{"regex":"^[^\\x20]{2,15}\\x20{2}[^\\x20]{50,}\\x20{2}[a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2,6}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9180_1.txt"}
+{"regex":"^[^\\x20]{2,20}\\x20[^\\x20]{80,160}\\x20[^\\x20]{30,90}\\x20?[^\\x20]{10,90}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9181_1.txt"}
+{"regex":"^[^\\x20]{2,20}\\x20{1,3}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9182_1.txt"}
+{"regex":"^[^\\x20]{2,20}\\x20{2}[^\\x20]{3,80}\\x20[^\\x20]{2,30} [a-z0-9._-]{1,35}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2}[^\\x20]{3,60}\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9183_1.txt"}
+{"regex":"^[^\\x20]{2,20}\\x20{2}www.[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9184_1.txt"}
+{"regex":"^[^\\x20]{2,25}\\x20{2}[^\\x20]{200,}\\x20 {0,25}\\x20 {0,12}http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/?\\x20{2}[^\\x20]{2,25}\\x20{0,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9185_1.txt"}
+{"regex":"^[^\\x20]{2,40}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9186_1.txt"}
+{"regex":"^[^\\x20]{2,50}\\x20{2}Ahr You received my photos\\?.{30,120}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9187_1.txt"}
+{"regex":"^[^\\x20]{2,80}\\x20{30,}[^\\x20]{2,80}\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9188_1.txt"}
+{"regex":"^[^\\x20]{20,200}\\x20<a href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^>]{0,150}\">Hot Offer!</a>\\x20*$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9189_1.txt"}
+{"regex":"^[^\\x20]{20,80}\\x20[^\\x20]{5,50}\\x20To unsubscribe [^\\x20]{5,60}\\x20{2}To subscribe [^\\x20]{5,60}\\x20{2}[^\\x20]{5,60} [^a-z0-9._-]?[a-z0-9._-]{1,30}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2}[^\\x20]{50,200}\\x20{2}[^\\x20]{200,}\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9190_1.txt"}
+{"regex":"^[^\\x20]{3,120}\\x20={60,90}\\x20[^\\x20]{3,80}\\x201\\. [^\\x20]{3,80}\\x20http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\\x20]{80,180}\\x20{2}2\\.", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9191_1.txt"}
+{"regex":"^[^\\x20]{3,30}\\x20[^\\x20]{0,30}\\<Beautiful Russian Girl[^\\x20]{0,50}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9192_1.txt"}
+{"regex":"^[^\\x20]{3,40}\\<[0-9]{3,5} ?\\$[^\\x20]{3,50}\\<www.[-a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{0,2}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9193_1.txt"}
+{"regex":"^[^\\x20]{3,50}\\x20[^\\x20]{5,120}\\x20[^\\x20]{3,60} http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\\x20]{2,20}\\x20[*\\x20]{4,10}[^\\x20]{3,60} http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/[^\\x20]{2,20}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9194_1.txt"}
+{"regex":"^[^\\x20]{3,50}\\x20http://[-.a-z0-9]{1,40}\\.[a-z]{2,4} [^\\x20]{2,30}\\x20[^\\x20]{1,50}\\x20{15,25}[^\\x20]{3,80}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9195_1.txt"}
+{"regex":"^[^\\x20]{3,50}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9196_1.txt"}
+{"regex":"^[^\\x20]{3,80} -> http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{7,}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9197_1.txt"}
+{"regex":"^[^\\x20]{3,80} http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/?\\x20{2}\\(c\\) \\d{4} [^\\x20]{3,50}\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9198_1.txt"}
+{"regex":"^[^\\x20]{3,80}\\x20[^\\x20]{3,150}\\x20[^\\x20]{3,80}\\x20http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9199_1.txt"}
+{"regex":"^[^\\x20]{3,80}\\x20[^\\x20]{50,200}\\x20[^\\x20]{3,80}\\x20[^\\x20]{3,120}\\<http://[-.a-z0-9]{1,40}\\.ru/\\x20{1,5}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9200_1.txt"}
+{"regex":"^[^\\x20]{3,80}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9201_1.txt"}
+{"regex":"^[^\\x20]{5,100}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9202_1.txt"}
+{"regex":"^[^\\x20]{5,40}\\x20{3}[0-9 ]{7,13}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9203_1.txt"}
+{"regex":"^[^\\x20]{5,50}\\x20 {0,15}V[^\\x20]{1,30}\\x20 {0,15}I[^\\x20]{1,30}\\x20 {0,15}A[^\\x20]{1,30}\\x20 {0,15}G[^\\x20]{1,30}\\x20 {0,15}R[^\\x20]{1,30}\\x20 {0,15}A[^\\x20]{1,30}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9204_1.txt"}
+{"regex":"^[^\\x20]{5,50}\\x20{2}[^\\x20]{5,80}\\x20[^\\x20]{5,200}\\x20[^\\x20]{5,80}\\x20http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9205_1.txt"}
+{"regex":"^[^\\x20]{5,50}\\x20{2}[^\\x20]{50,}\\x20{2}http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/?\\x20{1,4}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9206_1.txt"}
+{"regex":"^[^\\x20]{5,60}\\x20[^\\x20]{2,30} http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\/\\x20[^\\x20]{60,}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9207_1.txt"}
+{"regex":"^[^\\x20]{5,60}\\x20{2}- http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4} -\\x20{2}[^\\x20]{5,60}\\x20{0,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9208_1.txt"}
+{"regex":"^[^\\x20]{5,80}\\x20[^\\x20]{5,150}\\x20[^\\x20]{2,25}\\x20{2} {0,5}http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9209_1.txt"}
+{"regex":"^[^\\x20]{5,80}\\x20www\\.[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{4,}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9210_1.txt"}
+{"regex":"^[^\\x20]{5,80}\\x20{2}[a-z]{1,15}\\.narod\\.ru\\x20{3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9211_1.txt"}
+{"regex":"^[^\\x20]{5,80}\\x20{2}http:\\/\\/\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9212_1.txt"}
+{"regex":"^[^\\x20]{5,}\\x20{2}[^\\x20]{2,25} http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2}[^\\x20]{3,50}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9213_1.txt"}
+{"regex":"^[^\\x20]{5,}\\x20{2}[^\\x20]{3,30} <www\\.[-.a-z0-9]{1,40}\\.[a-z]{2,4}>\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9214_1.txt"}
+{"regex":"^[^\\x20]{60,150}\\x20http:// \\x20{0,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9215_1.txt"}
+{"regex":"^[^\\x20]{80,180}<br>\\x20[a-z]{2,15}\\.ru\\x20{1,2}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9216_1.txt"}
+{"regex":"^[a-zA-Z]{2,20} [a-zA-Z]{2,20} sent you a message:\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9217_1.txt"}
+{"regex":"^[a-z]{1,20}, Inc \\. is a registered trademark of [a-z]{1,20}, Inc\\. \\x7f 20\\d\\d, [a-z]{1,20}, Inc\\. All Rights Reserved\\.$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9218_1.txt"}
+{"regex":"^[a-z]{25,}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9219_1.txt"}
+{"regex":"^\\*{30,}\\x20[ A-Z]{10,50}\\x20\\*{30,}\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9220_1.txt"}
+{"regex":"^\\*{3} PLEASE DO NOT RESPOND TO THIS EMAIL \\*{3} Your federal Tax payment \\(ID: [0-9A-Z]{10,20}\\), recently sent from your checking account was returned by the your financial institution\\. For more information, please download notification, using your security PIN \\d{4,8}\\.\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9221_1.txt"}
+{"regex":"^\\d{3,25} Incidencia en la entrega", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9222_1.txt"}
+{"regex":"^\\x20*[^\\x20]{0,50}podnik[^\\x20]{0,50}\\s[^\\x20]{0,50}\\<podrobnosti[^\\x20]{0,50}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9223_1.txt"}
+{"regex":"^\\x20*[^\\x20]{2,50}\\x20{0,2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9224_1.txt"}
+{"regex":"^\\x20<center>\\x20<p><font color=#FF0000><h1>[^<]{3,20}\\<Girls[^<]{3,20}<br>[^<]{3,20}\\<fuck[^<]{3,20}</h1></font></p>\\x20", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9225_1.txt"}
+{"regex":"^\\x20<font[^>]{0,50}><b><a href=\"http://http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}\">[^<]{1,100}\\<making \\$\\d{3} [^<]{1,80}</a></b></font>\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9226_1.txt"}
+{"regex":"^\\x20<p>[^<]{20,150}[.?]</p>\\x20{0,2}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9227_1.txt"}
+{"regex":"^\\x20?<!DOCTYPE HTML .{200,}<\\/BODY><\\/HTML>\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9228_1.txt"}
+{"regex":"^\\x20?<DIV><A href=\"http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}\"><IMG[^>]{5,150}></A></DIV>\\x20{0,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9229_1.txt"}
+{"regex":"^\\x20?<script language=\"JavaScript\" type=\"text/javascript\">\\x20[^\\x20]{150,}document\\.write\\([a-z0-9]{1,25}\\)\\x20</script>$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9230_1.txt"}
+{"regex":"^\\x20?<script type='text/javascript'>\\x20<!--\\x20var s=\"[^\\x20]{3,150}\"\\x20[^\\x20]+-->\\x20</script>\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9231_1.txt"}
+{"regex":"^\\x20?Your ADP past due invoice is ready for your review at .{0,20}\\<Online Invoice Management.{0,20}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9232_1.txt"}
+{"regex":"^\\x20?[^\\x20]+\\x20{2}[^\\x20]{3,50} [a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2}[^\\x20]{3,30}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9233_1.txt"}
+{"regex":"^\\x20?[^\\x20]{15,100}\\x20[^\\x20]{15,100}\\x20{1,2}http:\\/\\/[-.a-z0-9]+\\.[a-z]{2,4}\\/?\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9234_1.txt"}
+{"regex":"^\\x20?[^\\x20]{2,100}\\x20{2}[^\\x20]{2,100}\\x20http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2}[^\\x20]{5,}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9235_1.txt"}
+{"regex":"^\\x20?[^\\x20]{2,60}\\x20http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9236_1.txt"}
+{"regex":"^\\x20?[^\\x20]{3,80}\\x20{2}[^\\x20]{3,120} http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{1,2}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9237_1.txt"}
+{"regex":"^\\x20?[^\\x20]{50,}\\x20[^\\x20]{10,100}\\x20[\\do]{3}.?[\\do]{3}.?[\\do]{4}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9238_1.txt"}
+{"regex":"^\\x20[^\\x20]{2,100}\\x20{3}[^\\x20]{2,}\\x20{2}[^\\x20]{2,100}\\x20http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9239_1.txt"}
+{"regex":"^\\x20[^\\x20]{3,15}\\x20{2}http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9240_1.txt"}
+{"regex":"^\\x20[^\\x20]{3,80}\\x20[^\\x20]{3,80}: [a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4} [^\\x20]{3,80}\\x20{2}cheers\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9241_1.txt"}
+{"regex":"^\\x20{0,2}>>>[^\\x20]{3,30}\\x20{4}http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/?\\x20{4}[^\\x20]{3,80}\\x20{1,5}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9242_1.txt"}
+{"regex":"^\\x20{0,2}[^\\x20]{3,25}\\x20{2}[^\\x20]{30,}\\x20{2}http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/?\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9243_1.txt"}
+{"regex":"^\\x20{0,3}Hello, [^\\x20]{2,30}\\x20{2}[^\\x20]{20,60}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9244_1.txt"}
+{"regex":"^\\x20{2,4}Be smart[^\\x20]{0,250}\\x20{2,4}[^\\x20]{5,150}\\x20{1,3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9245_1.txt"}
+{"regex":"^\\x20{2,8}Gem Cox\\x20[- 0-9]{10,16} cellinvoice\\s*$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9246_1.txt"}
+{"regex":"^\\x20{2}>>>[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2,4}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9247_1.txt"}
+{"regex":"^\\x20{2}Cher client[ ,]{1,3}[a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{2}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9248_1.txt"}
+{"regex":"^\\x7f 20\\d\\d [a-z]{2,20}, Inc\\., .{10,35} New York, NY \\d{5}\\.$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9249_1.txt"}
+{"regex":"^application/msword[\\x20\\x20 ]{1,10}name=\"Scan_\\d{1,5}_\\d{4,16}\\.docx?\"", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9250_1.txt"}
+{"regex":"^application/octet-stream[\\x20\\x20 ]{1,10}name=\"?img-201\\d{5}-\\d{4,8},jpeg\\.zip\"?$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9251_1.txt"}
+{"regex":"^application/vnd.ms-excel[\\x20\\x20 ]{1,10}name=\"[^\\x20]{6,30}\\.xls\"$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9252_1.txt"}
+{"regex":"^application/zip name=\"EMAIL_\\d{4,20}_(pen|under)[\\w]{1,20}\\.zip\"$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9253_1.txt"}
+{"regex":"^application/zip name=\"MICROSOFT_[a-z0-9]{6,20}_[\\._-a-z0-9]{4,20}\\.zip\"$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9254_1.txt"}
+{"regex":"^application/zip name=\"[a-z0-9]{6,20}_[\\._-a-z0-9]{4,20}\\.zip\"$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9255_1.txt"}
+{"regex":"^application\\/msword[\\x20\\x20 ]{1,10}name=\"[A-Z0-9]{15} - Confirmation with Photos\\.doc\"$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9256_1.txt"}
+{"regex":"^application\\/octet-stream\\s+name=\"[^\"]{1,50}\\.js\"", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9257_1.txt"}
+{"regex":"^application\\/zip name=\"INFO_\\d{1,20}_a[\\w\\-\\.]{1,20}\\.zip\"", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9258_1.txt"}
+{"regex":"^application\\/zip name=\"INVOICE_\\d{1,25}_[\\w\\-]{1,20}\\.zip\"", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9259_1.txt"}
+{"regex":"^application\\/zip[\\x20\\x20 ]{1,10}name=\"Freemobile_\\d{8,12}_\\d{2}-\\d{2}-\\d{4}\\.zip\"$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9260_1.txt"}
+{"regex":"^application\\/zip[\\x20\\x20 ]{1,10}name=\"Message_from_\\d{6,20}\\.wav\\.zip\"$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9261_1.txt"}
+{"regex":"^application\\/zip[\\x20\\x20 ]{1,10}name=\"Paket von \\d{6,16} \\d{6,16}\\.zip\"$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9262_1.txt"}
+{"regex":"^application\\/zip[\\x20\\x20 ]{1,10}name=\"[^\"]{1,30}@[^\"]{1,50}\\.pdf\\.zip\"$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9263_1.txt"}
+{"regex":"^attachment filename=\"?[^\\x20]{1,140}\\.img\"?", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9264_1.txt"}
+{"regex":"^attachment\\s+filename=\"[^\"]{1,30}\\.js\"", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9265_1.txt"}
+{"regex":"^hello [a-z0-9._-]{1,25}@[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20*$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9266_1.txt"}
+{"regex":"^http://[-.a-z0-9]{0,15}store[-.a-z0-9]{1,20}\\.[a-z]{2,4}/\\x20{2}[^\\x20]{3,25}\\x20{1,5}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9267_1.txt"}
+{"regex":"^http://[-.a-z0-9]{1,20}\\.[a-z]{2,4}/s/h/o/p/$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9268_1.txt"}
+{"regex":"^http://[-.a-z0-9]{1,40}\\.[a-z]{2,4}/\\?\\d{2,25}\\x20[^\\x20]{5,150}\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9269_1.txt"}
+{"regex":"^http://[-.a-z0-9]{1,40}\\.com\\x20{3}$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9270_1.txt"}
+{"regex":"^http://[-.a-zA-Z0-9]{1,40}\\.[a-zA-Z]{2,4}/inf\\.htm\\x20*$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9271_1.txt"}
+{"regex":"^http:\\/\\/[-.a-z0-9]{1,40}\\.[a-z]{2,4}\\x20{120,}", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9272_1.txt"}
+{"regex":"^provare questo : http://[-.a-zA-Z0-9]{1,40}\\.[a-zA-Z]{2,4}/[^\\x20]{10,60}\\x20$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9273_1.txt"}
+{"regex":"^wollen Frau heute Abend\\?\\x20{2}[^\\x20]{10,30}\\s*$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9274_1.txt"}
+{"regex":"^zkuste to ?: http://[-.a-zA-Z0-9]{1,40}\\.[a-zA-Z]{2,4}/164\\.html\\?[^\\x20]{10,50}\\x20*$", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9275_1.txt"}
+{"regex":"application/msword[\\x20\\x20 ]{1,10}name=\"?Invoice[A-Z]{2,4}[0-9]{5,9}\\.docx?\"?", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9276_1.txt"}
+{"regex":"application/octet-stream[\\x20\\x20 ]{1,10}name=\"[A-Z]{1,3}\\d{10,20}-xls\\.zip\"", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9277_1.txt"}
+{"regex":"application/vnd.ms-excel[\\x20\\x20 ]{1,10}name=\"?Invoice_INV\\d{4,15}\\.xls\"?", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9278_1.txt"}
+{"regex":"application/vnd.ms-excel[\\x20\\x20 ]{1,10}name=\"?[\\x20\\x20 ]{1,2}_\\d{2,12}_\\d{2,12}.xls\"?", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9279_1.txt"}
+{"regex":"application/vnd.ms-word.document.macroEnabled.12 name=\"?BookingConfirmation_\\d{1,8}_.{5,50}\\.docm\"?", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9280_1.txt"}
+{"regex":"application/zip name=\"?ORDER\\-\\d{3,6}\\-\\d{4,10}\\-\\d{4,10}\\.zip\"?", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9281_1.txt"}
+{"regex":"application/zip[\\x20\\x20 ]{1,10}name=\"?[A-Z]{1,4}\\d{4,12}\\.zip\"?", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9282_1.txt"}
+{"regex":"application/zip[\\x20\\x20 ]{1,10}name=\"?[PIU]\\d{4,12}\\.zip\"?", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9283_1.txt"}
+{"regex":"application/zip[\\x20\\x20 ]{1,10}name=\"\\d{1,2}\\.\\d{2}.\\d{8,20}\\.zip\"", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9284_1.txt"}
+{"regex":"application/zip[\\x20\\x20 ]{1,10}name=\"\\d{10,12}\\-\\(0\\d\\)\\.zip\"", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9285_1.txt"}
+{"regex":"application\\/pdf[\\x20\\x20 ]{1,10}name=\"MX-[a-zA-Z0-9]{3,6}_2017\\d{4}_\\d{6}\\.pdf\"\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9286_1.txt"}
+{"regex":"attachment filename=\"\\d{15,26}\\.pdf\\.zip\"", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9287_1.txt"}
+{"regex":"attachment[\\x20\\x20 ]{1,10}filename=\"?\\d{1,10}_\\d{1,10}\\.(docx?|xlsx?|pdf)\"?\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9288_1.txt"}
+{"regex":"attachment[\\x20\\x20 ]{1,10}filename=\"Fax[0-9a-f]{6,16}\\.rar\"\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9289_1.txt"}
+{"regex":"attachment[\\x20\\x20 ]{1,10}filename=\"msg\\d{2,12}\\.(7z|zip|rar|z|gz)\"\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9290_1.txt"}
+{"regex":"e-?mail me .{1,25}@", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9291_1.txt"}
+{"regex":"from Exchahge by service\\.mail\\..{5,50} with Microsoft SMTP", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9292_1.txt"}
+{"regex":"from Pickup by server\\.mail\\..{5,50} with Microsoft SMTP", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9293_1.txt"}
+{"regex":"http://[-a-z0-9]{1,40}\\.([-.a-z0-9]{1,40}\\.[a-z]{2,4})/?", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9294_1.txt"}
+{"regex":"image/jpeg|name=[\"'][^\\x20]{1,30}\\.jp[e]?g", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9295_1.txt"}
+{"regex":"image/jpeg|name=[\"'][^\\x20]{1,30}\\.png", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9296_1.txt"}
+{"regex":"increase.{1,30}muscle", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9297_1.txt"}
+{"regex":"inline[\\x20\\x20 ]{1,10}filename=\"[0-9a-f]{16}\\.jpg\"\\>", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9298_1.txt"}
+{"regex":"style.{8}BACKGROUND-COLOR: rgb\\(0,255,255\\).{5} COLOR: rgb\\(255,0,0\\).{5} FONT-SIZE: \\d{2}px.{8}Ship\\s*Free.{5}nbsp", "file":"../runGen5/hyperTexts/hyper-03-08/TrustPort-between_9299_1.txt"}

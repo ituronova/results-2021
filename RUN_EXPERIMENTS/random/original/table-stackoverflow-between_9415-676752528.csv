@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\S{26}"", ""\S"", ""(\S{26})(\S)";./attacks-gadget/stackoverflow-between_84_3.txt;10.6;0.32;0.37;1.61;4.52;2.84;0.33;2.71;9.38;17.72;0.72;0.83;1.75;1.29;631800;631800;631800;631800;631800;631800;631800;631800;631800;631800;631800;631800;631800;631800;49.9851

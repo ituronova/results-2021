@@ -1,0 +1,5 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"^GET [^\r\n]*\x20([^\r\n]*\x20)*[^\x20\r\n]{1025,}";./attacks/rathnayake-rxxr2/snort-nested-above28_2_0.txt;0.45;0.02;ERR;0.26;0.06;0.4;0.0;1.47;0.05;0.01;0.01;0.01;0.23;0.45;0;0;ERR;0;0;0;0;ERR;0;0;0;0;0;0;3e-06
+"^GET [^\r\n]*\x20([^\r\n]*\x20)*[^\x20\r\n]{1025,}";./attacks/rathnayake-rxxr2/snort-nested-above28_2_4.txt;0.45;0.02;ERR;0.23;0.06;0.4;0.0;0.42;0.05;0.01;0.01;0.02;0.09;0.6;0;0;ERR;0;0;0;0;ERR;0;0;0;0;0;0;3e-06
+"^POST [^\r\n]*\x20([^\r\n]*\x20)*[^\x20\r\n]{1025,}";./attacks/rathnayake-rxxr2/snort-nested-above28_2_8.txt;0.48;0.02;ERR;0.26;0.07;0.37;0.0;1.13;0.04;0.01;0.02;0.02;0.07;0.64;0;0;ERR;0;0;0;0;ERR;0;0;0;0;0;0;4e-06
+"^POST [^\r\n]*\x20([^\r\n]*\x20)*[^\x20\r\n]{1025,}";./attacks/rathnayake-rxxr2/snort-nested-above28_2_12.txt;0.82;0.02;ERR;0.26;0.07;0.32;0.0;0.3;0.06;0.01;0.01;0.03;0.09;0.56;0;0;ERR;0;0;0;0;ERR;0;0;0;0;0;0;4e-06

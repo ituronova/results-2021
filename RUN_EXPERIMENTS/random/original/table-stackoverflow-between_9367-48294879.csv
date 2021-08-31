@@ -1,0 +1,2 @@
+pattern;file;grep;hyperscan;re2g;srm;dot-net;cap;rust;go;ruby;php;perl;python;java;node;grep-matches;hyperscan-matches;re2g-matches;srm-matches;dot-net-matches;cap-matches;rust-matches;go-matches;ruby-matches;php-matches;perl-matches;python-matches;java-matches;node-matches;file size [MG]
+"\d{1,2}-\d{1,2}-\d{2,4} \d{1,2}:\d{2}"", ""\d{2}-\d{2}-\d{4} \d{2}:\d{2}"", ""\d{2}";./attacks-gadget/stackoverflow-between_75_2.txt;0.05;0.08;1.33;2.58;19.67;4.5;0.64;7.1;74.92;80.69;2.92;1.97;1.07;1.75;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49.99995
